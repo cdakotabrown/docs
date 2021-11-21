@@ -1,0 +1,28 @@
+{
+    "name": "docs",
+    "description": "Storage of things I write",
+    "version": "1.0.0",
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/cdakotabrown/docs/issues"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "prettier": "2.4.1"
+    },
+    "homepage": "https://github.com/cdakotabrown/docs#readme",
+    "keywords": [
+        "docs",
+        "markdown"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cdakotabrown/docs.git"
+    },
+    "scripts": {
+        "prettier": "prettier -w .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
