@@ -30,7 +30,9 @@
 | Injustice               |              |
 | Mortal Kombat X         |              |
 | Mortal Kombat 11        |              |
+| Killer Instinct         |              |
 | Tough Love Arena        |              |
+| Slap City               |              |
 | Nicktoons All Stars     |              |
 
 #### Playstyle
@@ -371,3 +373,105 @@
 -   Cute girl, sexy girl, awooga
 -   Characters that misrepresent the power of their moves (Anna QCF1, Poison 2MP, Wario Nair)
 -   When in doubt, Goth
+
+### Culex
+
+| Game                | Character(s)          |
+| ------------------- | --------------------- |
+| GG +R               | Testament, Justice    |
+| GG Strive           | Anji                  |
+| Smash Melee         | Luigi                 |
+| Smash Ultimate      | Samus, Sora           |
+| BBTAG               | Kanji/Yu              |
+| Dragonball FighterZ | Frieza/Janemba/Cooler |
+| P4A                 | Kanji                 |
+| Nicktoons All Stars | Helga                 |
+
+#### Playstyle
+
+-   Neutral heavy, committal to buttons (stiff)
+-   Instant startup buttons, long recovery
+-   Projectile zoning?
+
+#### Aesthetic
+
+-   Bulky
+-   Strong
+-   Intimidating
+-   Playful
+
+### Chef
+
+| Game                    | Character(s)        |
+| ----------------------- | ------------------- |
+| Street Fighter 4        | Dictator            |
+| Street Fighter 5        | Dictator            |
+| BlazBlue                | Tager               |
+| GG +R                   | Anji, Pot           |
+| GG Strive               | May, Pot            |
+| Tekken 7                | Claudio, Fakh, Drag |
+| Soul Calibur            | Nightmare           |
+| Smash Melee             | Luigi               |
+| Smash PM                | Ganon, DK           |
+| Smash Ultimate          | R.O.B.              |
+| Dead or Alive           | Bayman              |
+| Granblue Fantasy Versus | Vaseraga, Metera    |
+| Skullgirls              | Big Band            |
+| Mortal Kombat 11        | Baraka              |
+| Slap City               | Remedy              |
+| Nicktoons All Stars     | Reptar              |
+
+#### Playstyle
+
+-   Slow moving, big button, high committal characters
+-   Win the neutral game fewer times than your opponent
+-   Straightforward gameplan, like easy to pick up
+-   When in doubt, pick low committal neutral dominating characters
+
+#### Aesthetic
+
+-   Strong men, big characters, large bodies
+-   Boss Characters, usually bad motivations
+
+### Yujin
+
+| Game                    | Character(s)       |
+| ----------------------- | ------------------ |
+| Street Fighter 5        | Kolin              |
+| GG Strive               | Anji, I-No         |
+| Tekken 7                | Kunimitsu, Lili    |
+| Soul Calibur            | Natsu, Taki        |
+| Smash PM                | Ness, Kirby, Peach |
+| Smash Ultimate          | Robin              |
+| Granblue Fantasy Versus | Lancelot           |
+| Mortal Kombat 11        | Kitana             |
+| Killer Instinct         | Orchid             |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
+
+### Mexiken
+
+| Game                    | Character(s) |
+| ----------------------- | ------------ |
+| Street Fighter 5        | Ken, Akuma   |
+| GG Strive               | Chipp        |
+| Tekken 7                | Akuma, Geese |
+| Smash Melee             | Marth        |
+| Smash PM                | Lucario      |
+| Smash Ultimate          | Ken          |
+| Mortal Kombat 11        | Subzero      |
+| Nicktoons All Stars     | Catdog       |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
