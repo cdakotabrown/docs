@@ -28,8 +28,10 @@
 | UNIST                   |              |
 | P4A                     |              |
 | Injustice               |              |
+| Mortal Kombat X         |              |
 | Mortal Kombat 11        |              |
 | Tough Love Arena        |              |
+| Nicktoons All Stars     |              |
 
 #### Playstyle
 
@@ -115,6 +117,7 @@
 | P4A                     | Teddy                      |
 | Mortal Kombat 11        | Baraka                     |
 | Tough Love Arena        | Noodle                     |
+| Nicktoons All Stars     | Spongebob                  |
 
 #### Playstyle
 
@@ -254,44 +257,117 @@
 
 ### Driftwood
 
-| Game                    | Character(s) |
-| ----------------------- | ------------ |
-| Street Fighter 4        |              |
-| Street Fighter 5        |              |
-| BlazBlue                |              |
-| GG +R                   |              |
-| GG Xrd                  |              |
-| GG Strive               |              |
-| Tekken 7                |              |
-| Soul Calibur            |              |
-| Smash Melee             |              |
-| Smash PM                |              |
-| Smash Ultimate          |              |
-| Samurai Showdown 7      |              |
-| Melty Blood MBACC       |              |
-| Melty Blood TL          |              |
-| BBTAG                   |              |
-| Dead or Alive           |              |
-| Dragonball FighterZ     |              |
-| Granblue Fantasy Versus |              |
-| Skullgirls              |              |
-| UNIST                   |              |
-| P4A                     |              |
-| Injustice               |              |
-| Mortal Kombat 11        |              |
-| Tough Love Arena        |              |
+| Game                    | Character(s)                |
+| ----------------------- | --------------------------- |
+| Street Fighter 4        | Dhalsim                     |
+| Street Fighter 5        | Cammy, Cody                 |
+| BlazBlue                | Hakumen, Arakune            |
+| GG +R                   | Sol                         |
+| GG Strive               | Sol                         |
+| Tekken 7                | Paul, Kazuya                |
+| Soul Calibur            | Nightmare, Lizard with Axes |
+| Smash Melee             | Fox                         |
+| Smash Ultimate          | Wolf                        |
+| Melty Blood TL          | Arcuid                      |
+| BBTAG                   | Merkava+1                   |
+| Granblue Fantasy Versus | Vaseraga                    |
+| UNIST                   | Merkava                     |
+| P4A                     | Naoto                       |
 
 #### Playstyle
 
--   Midrange character
--   Aggressive buttons, forward movement
--   High execution requirement (stick movement, not buttons)
--   Mental fear response inducing
--   Close range strings
+-   Midrange jack-of-all-trades characters
+-   Straightforward gameplan chars
+-   Big damage on commitment buttons
+-   Coward mode, but higher execution
+-   Little bit of chump checking, if you don't know counterplay...you lose
+-   Would play Mario in smash if he was top tier
 
 #### Aesthetic
 
--   Sexualized girl
--   Rival character
--   Muscular, macho man
--   Emotional strength
+-   Impulsive
+-   Force of nature
+-   Stoic, statuesque
+-   Older men
+-   Monsters
+
+### Randy Newman
+
+| Game                    | Character(s)          |
+| ----------------------- | --------------------- |
+| Street Fighter 5        | R.Mika                |
+| GG Strive               | Giovanna              |
+| Tekken 7                | Josie                 |
+| Smash Ultimate          | Little Mac            |
+| Melty Blood TL          | Ciel                  |
+| BBTAG                   | Ruby/Yang             |
+| Dragonball FighterZ     | Cell/Trunks/SS Vegita |
+| Granblue Fantasy Versus | Ladiva                |
+| Mortal Kombat 11        | Erron Black           |
+| Nicktoons All Stars     | April O'Neil          |
+
+#### Playstyle
+
+-   Midrange neutral
+-   Aggression/Mixup
+-   Command Grabs (Mika, Gio, Yang, Ladiva)
+-   Ability to zone
+
+#### Aesthetic
+
+-   Cute Girls, Sexy Girls
+-   Colored hair
+-   Has weapons
+-   Strong or big men
+
+### Jake Denne
+
+| Game           | Character(s)        |
+| -------------- | ------------------- |
+| GG Strive      | Leo                 |
+| Smash Ultimate | Lucina, Pythra, G&W |
+
+#### Playstyle
+
+-   Midrange neutral
+-   High tier
+-   Low execution
+
+#### Aesthetic
+
+-   Nobility, legacy, reputation
+-   Has a sword
+
+### Yachttors
+
+| Game                | Character(s)          |
+| ------------------- | --------------------- |
+| Street Fighter 4    | Hugo, Poison          |
+| Street Fighter 5    | Poison, Abigail       |
+| GG +R               | A.B.A.                |
+| GG Strive           | Zato-1, Goldlewis     |
+| Tekken 7            | Anna                  |
+| Smash Ultimate      | Wario                 |
+| Dragonball FighterZ | A17/Super Broly/Roshi |
+| Skullgirls          | Valentine             |
+| UNIST               | Gordeau               |
+| P4A                 | Elizabeth, Kanji      |
+| Mortal Kombat X     | Mileena               |
+| Nicktoons All Stars | Lucy Loud             |
+
+#### Playstyle
+
+-   He's a fucking liar, don't believe him.
+-   Neutral dominator
+    -   Wins a few times, and forces a playstyle from opponent
+    -   Wins frequently, forces opponent to overcome oppression
+-   Specialist characters, doesn't have reversals
+-   Insists that their opponent knows the matchup against them
+-   Tends to pick a gameplan that has "gimmicks"
+
+#### Aesthetic
+
+-   Big body, fat, ugly bastard
+-   Cute girl, sexy girl, awooga
+-   Characters that misrepresent the power of their moves (Anna QCF1, Poison 2MP, Wario Nair)
+-   When in doubt, Goth
