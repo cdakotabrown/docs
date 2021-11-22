@@ -18,12 +18,13 @@
 | Smash PM                |              |
 | Smash Ultimate          |              |
 | Samurai Showdown 7      |              |
-| Melty Blood MBACC       |              |
+| Melty Blood MBAACC      |              |
 | Melty Blood TL          |              |
 | BBTAG                   |              |
 | Dead or Alive           |              |
 | Dragonball FighterZ     |              |
 | Granblue Fantasy Versus |              |
+| Marvel vs. Capcom 3     |              |
 | Skullgirls              |              |
 | UNIST                   |              |
 | P4A                     |              |
@@ -108,7 +109,7 @@
 | Smash Melee             | C.Falcon                   |
 | Smash Ultimate          | Chrom                      |
 | Samurai Showdown 7      | Hibiki                     |
-| Melty Blood MBACC       | F.Hime                     |
+| Melty Blood MBAACC      | F.Hime                     |
 | Melty Blood TL          | Noel, Kouhaku              |
 | BBTAG                   | Yang/Akatsuki              |
 | Dead or Alive           | Tina                       |
@@ -195,19 +196,19 @@
 
 ### Multistorm
 
-| Game              | Character(s)        |
-| ----------------- | ------------------- |
-| GG +R             | Axl, Sol            |
-| GG Xrd            | Elphelt             |
-| GG Strive         | Ram                 |
-| Tekken 7          | Miguel, Kazumi      |
-| Soul Calibur      | Kilik               |
-| Smash Melee       | Sheik               |
-| Smash Ultimate    | Inkling, Puff, Wolf |
-| Melty Blood MBACC | F.Hime              |
-| Melty Blood TL    | Red Arc             |
-| Skullgirls        | Beowulf, Big Band   |
-| UNIST             | Phonon              |
+| Game               | Character(s)        |
+| ------------------ | ------------------- |
+| GG +R              | Axl, Sol            |
+| GG Xrd             | Elphelt             |
+| GG Strive          | Ram                 |
+| Tekken 7           | Miguel, Kazumi      |
+| Soul Calibur       | Kilik               |
+| Smash Melee        | Sheik               |
+| Smash Ultimate     | Inkling, Puff, Wolf |
+| Melty Blood MBAACC | F.Hime              |
+| Melty Blood TL     | Red Arc             |
+| Skullgirls         | Beowulf, Big Band   |
+| UNIST              | Phonon              |
 
 #### Playstyle
 
@@ -457,21 +458,26 @@
 
 ### Mexiken
 
-| Game                    | Character(s) |
-| ----------------------- | ------------ |
-| Street Fighter 5        | Ken, Akuma   |
-| GG Strive               | Chipp        |
-| Tekken 7                | Akuma, Geese |
-| Smash Melee             | Marth        |
-| Smash PM                | Lucario      |
-| Smash Ultimate          | Ken          |
-| Mortal Kombat 11        | Subzero      |
-| Nicktoons All Stars     | Catdog       |
+| Game                | Character(s) |
+| ------------------- | ------------ |
+| Street Fighter 5    | Ken, Akuma   |
+| GG Strive           | Chipp        |
+| Tekken 7            | Akuma, Geese |
+| Smash Melee         | Marth        |
+| Smash PM            | Lucario      |
+| Smash Ultimate      | Ken          |
+| Mortal Kombat 11    | Subzero      |
+| Nicktoons All Stars | Catdog       |
 
 #### Playstyle
 
--
+-   Boxing
+-   Aggressive strings
+-   Hitconfirms
+-   Pixie neutral
 
 #### Aesthetic
 
--
+-   Ninja
+-   Martial Arts
+-   Strong Men
