@@ -10,7 +10,7 @@
 
 #### servants knowing kinzo is rich, being most familiar with island
 
-#### who all is in the smoking room, each one's motivation?
+### who all is in the smoking room, each one's motivation?
 
 #### jessica
 
