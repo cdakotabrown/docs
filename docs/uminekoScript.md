@@ -2,7 +2,7 @@
 
 ## Facts
 
-### explore the random data we've been told, trying to find a way through that.
+### explore the random data we've been told, trying to find a way through that
 
 #### nazi gold, krauss having an ingot
 
@@ -10,7 +10,7 @@
 
 #### servants knowing kinzo is rich, being most familiar with island
 
-### who all is in the smoking room, each one's motivation?
+#### who all is in the smoking room, each one's motivation?
 
 #### jessica
 
