@@ -30,13 +30,15 @@
 
 ### explore what magic means
 
-#### classic (like tolkien)
+The term "Magic" is never explicitly defined
+
+#### classic (tolkien)
 
 #### spiritual
 
-#### Seeing Beato in a place called "purgatory" is inherently magical feeling.
+#### Seeing Beato in a place called "purgatory" is inherently magical feeling
 
-### Supporting a "side"
+### Supporting a side
 
 #### why would i support battler?
 
