@@ -87,7 +87,7 @@ you also are very high in 8. See Claire's description for how this affects you b
 
 ## Dakota
 
-<img src="pictures/dakota.png" alt="dakota" width="200"/>
+<img src="https://cdakotabrown.github.io/docs/pictures/dakota.png" alt="dakota" width="200"/>
 
 6w7. The confidant. Very loyal, honors commitments very often. 6w7s say what they mean and do what they say. Greatly values feeling safe and supported, which manifests as love and support for others. Greatest fear is losing your support system, which may manifest in self-deprecating humor where others get the opportunity to offer you assurance.
 
