@@ -2,6 +2,8 @@
 
 ## Tyler
 
+<img src="https://cdakotabrown.github.io/docs/pictures/culex.png" alt="Tyler" width="200"/>
+
 9w8. social, independent, and routine in behavior. Generally more assertive and adventurous than other 9s because of the 8 wing (type 8s are assertive, headstrong, confident, less requiring external validation.)
 9w8s tend to:
 
@@ -20,6 +22,8 @@
 -   seeing multiple perspectives in a situation
 
 ## Claire
+
+<img src="https://cdakotabrown.github.io/docs/pictures/claire.jpg" alt="Claire" width="200"/>
 
 4w5. generally more reserved, eccentric, and perceptive in thought and behavior. your 5 wing makes you more independent and more likely to strive to solve issues on your own.
 
@@ -42,6 +46,8 @@ it's worth noting that you are also extremely high in type 8, which likely makes
 
 ## Baylor
 
+<img src="https://cdakotabrown.github.io/docs/pictures/baylor.png" alt="Baylor" width="200"/>
+
 8w7. You dislike authority. Big fear of being controlled by someone else, and likes to advocate for others when sensing they are losing their autonomy. Wants to be free, defense mechanism is simply to deny vulnerability. Never wants to appear weak and thus avoids situations that leave you defenseless or exposed.
 
 General 8w7 traits:
@@ -63,6 +69,8 @@ General 8w7 traits:
 It is very notable that you are very high in type 3, so that's likely your triad. Type 3s are charming and attractive, ambitious, competent, and status-conscious. Overly concerned with image, what others think of you, and being liked. Motivated by external affirmations from others, getting attention, being admired, impressing others. Also wants to be distinguished from others. This being your triad probably gives you a back-of-the-mind crippling fear of not being liked or not reaching your full potential, but your main 8w7 tries to keep it under wraps and it just looks like fashionable narcissism
 
 ## Jacob DLG
+
+<img src="https://cdakotabrown.github.io/docs/pictures/oceandad.png" alt="Jacob DLG" width="200"/>
 
 so im pretty sure you are a type 4 and not a type 8. it's really close tho. So you are either 4w3 or 4w5. Check Claire's write up for a description of 4w5 with 8 triad. i'll explain 4w3 here and basically it's up to you to see what sounds more accurate for you
 
@@ -87,7 +95,7 @@ you also are very high in 8. See Claire's description for how this affects you b
 
 ## Dakota
 
-<img src="https://cdakotabrown.github.io/docs/pictures/dakota.png" alt="dakota" width="200"/>
+<img src="https://cdakotabrown.github.io/docs/pictures/dakota.png" alt="Dakota" width="200"/>
 
 6w7. The confidant. Very loyal, honors commitments very often. 6w7s say what they mean and do what they say. Greatly values feeling safe and supported, which manifests as love and support for others. Greatest fear is losing your support system, which may manifest in self-deprecating humor where others get the opportunity to offer you assurance.
 
@@ -109,6 +117,8 @@ you also are very high in 8. See Claire's description for how this affects you b
 Noting again your high 8, which i have talked about what an 8 triad means for Claire and it works similarly here. check her write up for how an 8 triad affects your personality. Also, you are high in 1 as well. This gives you a developed sense of morality and wanting to uphold and exemplify humane and "pure" decision making
 
 ## Levi
+
+<img src="https://cdakotabrown.github.io/docs/pictures/chef.jpg" alt="Levi" width="200"/>
 
 5w4. Wants to feel helpful and able, expresses this by passionately pursuing knowledge and understanding of the world around you. Defense mechanism is withdrawing, which may cause 5w4s to feel lonely. Biggest fear is not feeling helpful and competent, so there's an overcompensation of seeking knowledge to mitigate this and feel worthy of others.
 
