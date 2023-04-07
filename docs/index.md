@@ -522,3 +522,46 @@ Try out some Iaido stance characters, stuff like Jin (BBCF), Johnny (GG), Yuzuri
 -   Comedic
 -   Monster
 -   Robot
+
+### E-Girl
+
+| Game                    | Character(s)                                         |
+| ----------------------- | ---------------------------------------------------- |
+| Street Fighter 4        | Rose, Sakura, E-Honda                                |
+| Street Fighter 5        | Rose, Sakura, Karin                                  |
+| BlazBlue                | Kokonoe, Noel, Rachel                                |
+| GG +R                   | May, Dizzy, Ky                                       |
+| GG Xrd                  | May, Dizzy, Ky, Elphelt                              |
+| GG Strive               | May, Ky, Jacko(?)                                    |
+| Tekken 7                | Alisa, Lili, Chloe(?), Panda                         |
+| Soul Calibur            | Cassandra, Talim, Tira                               |
+| Smash Melee             | Pikachu, Peach                                       |
+| Smash PM                | Pikachu, Peach                                       |
+| Smash Ultimate          | Kirby, Ness, Robin, Pikachu, Yoshi                   |
+| Samurai Showdown 7      | Nakoruru, Galford, Rimururu, Hibiki                  |
+| Melty Blood MBAACC      | Hime, Akiha, Miyako, Satsuki, Neco-arc               |
+| Melty Blood TL          | Warc, Akiha, Mario                                   |
+| BBTAG                   | Blake(any RWBY?), Chie, Heart                        |
+| Dead or Alive           | Eliot, Kasumi, Hitomi, Kula                          |
+| Dragonball FighterZ     | Trunks, A21, A18, GT Goku, Krillin                   |
+| Granblue Fantasy Versus | Belial, Ferry, Djeeta, Metera, Vira                  |
+| Marvel vs. Capcom 3     | Vergil, Dante, Ookami, Phoenix, Spiderman, Wolverine |
+| Skullgirls              | Filia, Squiggly, Peacock                             |
+| UNIST                   | Phonon, Yuzu, Chaos                                  |
+| P4A                     | Chie, Ken, Rise                                      |
+| Injustice               | Zatana, Hawkgirl, Harley Quinn                       |
+| Mortal Kombat X         | Kitana, Mileena, Johnny Cage(?)                      |
+| Mortal Kombat 11        | Sindel, Sonya                                        |
+| Killer Instinct         | Jago, Hisako                                         |
+| Tough Love Arena        | Noodle, Onion                                        |
+| Slap City               | Ittle Dew, Princess Remedy                           |
+| Nicktoons All Stars     | Aang, Korra, Spongebob                               |
+| Touhou 12.3             | Cirno, Reimu, Marisa                                 |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
