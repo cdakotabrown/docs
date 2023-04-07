@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>QE</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="qe">QE</h1>
+<h2 id="quality-reporting-dashboard">Quality Reporting Dashboard</h2>
+<ul>
+<li>Quality Dashboard
+<ul>
+<li>Product(s), applications or services</li>
+<li>Tests
+<ul>
+<li>Manual (test case)</li>
+<li>Automated scripts</li>
+<li>Test repository, test count (tracking needed)
+<ul>
+<li>Manual</li>
+<li>Automatable</li>
+<li>Automated</li>
+</ul>
+</li>
+<li>Planned Automation vs Automatable</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Create and maintain a quality dashboard to keep track of any relevant products, applications or services. Links to test repositories and boards that track progress on work related to testing. This dashboard should track the team’s test cases alongside metrics on those tests. Metrics include test count by type and code coverage by feature.
+Test count is broken down into three categories: Manual, Automatable, and Automated. Manual refers to anything that requires outside intervention to complete, like a user submitting a form or taking a photograph with a device to upload. Automatable and Automated go hand-in-hand to make up the body of automation cases. Automatable tests can are like a to-do list and Automated is anything from that list that has already been completed. The dashboard should have information related to the numbers and ratios between these categories. It’s important to track how many remaining Automatable tasks there are as well as whether there are any Manual tasks that can be promoted into that pile.
+Code coverage by feature refers to the amount of automation testing that covers any feature that is added to product or service. Viewers of the dashboard at a glance should be able to see the percentage of completed planned automation, and that amount compared to the whole set of Automatable tests.
+What we’re currently using for this: XRay plugins on Jira (<a href="https://jira.walmart.com/projects/WHVCPT?selectedItem=com.xpandit.plugins.xray:testset-panel">https://jira.walmart.com/projects/WHVCPT?selectedItem=com.xpandit.plugins.xray:testset-panel</a>)</p>
+<ul>
+<li>End to End testing resource planning
+<ul>
+<li>Refer to master test plan
+<ul>
+<li>[Link]</li>
+</ul>
+</li>
+<li>Itemized list of when/where/who we need for e2e testing efforts
+<ul>
+<li>Team-internal
+<ul>
+<li>Jira stories/planning related to testing</li>
+</ul>
+</li>
+<li>Team-external
+<ul>
+<li>Resource names that are accountable to help with testing at certain times</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Quality Reviews (test case review, automation review, etc)
+<ul>
+<li>Create inventory of all products/services that we will be responsible for testing</li>
+<li>For each product, create a plan to fill in gaps in our GAP analysis</li>
+<li>GAP Analysis
+<ul>
+<li>Are tests created? Where are they?</li>
+<li>How do we organize tests?</li>
+<li>How frequently are tests run?</li>
+<li>Time to execute</li>
+<li>Traceability matrix
+<ul>
+<li>Feature &gt; Code &gt; Unit Test &gt; QA Test</li>
+</ul>
+</li>
+<li>Automation/Coverage metrics (breakdown by feature, might need working session)</li>
+</ul>
+</li>
+<li>Document details of defects
+<ul>
+<li>Severity, age, frequency, churn
+<ul>
+<li>How frequently are bugs fixed and remain fixed?</li>
+</ul>
+</li>
+<li>Triage process
+<ul>
+<li>TODO:</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Frequency of quality reviews (Monthly, quarterly?)</li>
+</ul>
+</li>
+<li>Keystone Metrics for APIs/UIs
+<ul>
+<li>APIs
+<ul>
+<li>Devs or business requirements should be responsible for defining metrics for API performance</li>
+<li>Simple vs. Typical vs Complex APIs</li>
+<li>Unit/Integration tests should be helping to enforce these standards</li>
+<li>Make use of performance testing team to better test</li>
+</ul>
+</li>
+<li>UIs
+<ul>
+<li>Accessibility</li>
+<li>Performance (time-to-paint, first meaningful paint, etc)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>How does our build pipeline help
+<ul>
+<li>Blocking deploys due to integration testing/automation</li>
+<li>Blocking merges to main development branch without all unit testing validations passing</li>
+<li>Build time tests
+<ul>
+<li>Jest/RTL</li>
+<li>Running Wyvern stuff against PR deploys
+<ul>
+<li>TODO: Workflow diagram</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Deploy time tests
+<ul>
+<li>Wyvern stuff</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Testathons
+<ul>
+<li>Tester Resources
+<ul>
+<li>Applause
+<ul>
+<li>Accessibility</li>
+<li>Usability/Functional</li>
+<li>Certified testers</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Non-Tester Resources
+<ul>
+<li>User acceptance testing</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Training program on how to create unit tests</p>
+<p>————————————————————————————————————————————————————————</p>
+<p>TODOs for my consumption:
+Shree, Bhavin, Rahim, Barry, Neyaz, Jerry, + Any team manager related to this product/service</p>
+<ul>
+<li>Testing report weekly
+<ul>
+<li>Executive summary with details at bottom. Audience is mgmt.</li>
+<li>Link to dashboard(s)</li>
+<li>[Highlights]
+<ul>
+<li>Product/Applications</li>
+<li>Features/Team deliverables</li>
+<li>Team member kudos</li>
+</ul>
+</li>
+<li>Warning/Heads up</li>
+<li>Trend lines/charts/graphics</li>
+<li>[Snapshot of dashboard, updates on automation (coverage/cycles run/defects)]</li>
+<li></li>
+</ul>
+</li>
+</ul>
+
+        
+        
+    </body>
+    </html>

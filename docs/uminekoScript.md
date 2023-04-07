@@ -56,6 +56,8 @@ The term "Magic" is never explicitly defined
 
 ## Explanations
 
+### level 3 episode descriptions feeding directly into including the reader as an actor in the WTC canon/universe
+
 ### How these scenes usually play out at the end of Higurashi
 
 The epilogue chapters in Higurashi are usually called cast review sessions. They serve a couple uses, they allow a small break to decompress after enduring the ending act of an episode. Most of the endings of Higurashi involve tragic endings and many people dying that we've come to know and care about. It's a cheeky "hey don't worry, these characters are fine they are just as confused or anxious or curious as you, the reader, are". It directly breaks the fourth wall and treats the reader as if they were part of a greater conversation about what's going on in the town of Hinamizawa 1983.
@@ -70,8 +72,14 @@ SPOILERS FOR HIGURASHI: This ends up becoming slightly more complicated once Kei
 
 The epilogue (tea room) of Umineko Episode 1 starts in a similar fashion to what we're used to from Higurashi epilogues (cast review session). The main protagonists are put into a otherworld environment and start to talk about the events of the episode, as if they are also in the abstract L2 that we've seen before. Battler attempts to speak about the events of the episode logically. Jessica challenges these ideas by playing advocate for the existence of magic and logical inconsistency. Maria plays the role of someone who understands or "gets" what magic and witches are, mocking any attempts to disprove these feelings with cackling laughter or indignant whining.
 Everything plays out as it always has in past WTC titles, meta-narrative for the sake of creating a dialogue with the player. A book-club aesthetic to give the player hints at what to look at for solving the mystery of the story, and markers for anyone trying to pinpoint the rules of the Game Board "Rokkenjima 1986". This would have been just another review chapter if not for the determination of the main protagonist, Battler, to defy any and all attempts to make him concede ground toward the belief that "magic" could have been responsible for any of the events. He denies these claims so much so that the previously unseen witch herself APPEARS before the review session to proclaim she isn't about to take any criticism sitting down. The foundational assumption surrounding this epilogue chapter has changed. L2 is no longer here for the actors in the story to have a conversation with us, the viewer, but instead are talking amongst each other in what is a newly introduced layer of narrative in the story!
-(Explain why this is cool in comparison to Higurashi here, need to chew on it more)
+
+-   TODO: Explain why this is cool in comparison to Higurashi here. Like why is it cool to have another layer of meta-narrative stapled onto your story othery than the complexity?
+
 The Golden Witch Beatrice has trapped Battler and his family in purgatory until they concede that she and her army of magical servants were fully responsible for the tragedy of "Rokkenjima 1986". We've been trained by Higurashi to seek the truth and see through deceit. Battler assumes our role in what used to be a meta-narrative between us and R07 told through his stories. This Tea Room scene isn't made to downplay the tragedies of the L1 Game Board, or draw attention to the fact that you're reading a mystery VN. This Tea Room scene is celebrating the relationship R07 has formed with his audience, creating a rival pair of interlocutors that will treat L1/L2 like a battle of wits. This transformation of the epilogue review section is reinforced by Umineko introducing a 2nd epilogue chapter in each episode called ???, in which the ACTUAL meta-narrative characters have conversations about the state of the L1/L2 interactions. These conversations usually serve to draw special attention to the ropes holding the whole show together, providing hints toward how to solve the mysteries of the story in the same vein as the cast review segments of Higurashi.
+
+Why is this important? Because YOU are part of that highest "level". YOU are having a dialogue with the characters as they think about the events of the routes you're reading. Stuff is left in the air and intentionally vague because YOU are supposed to be thinking about alternative solutions to the problems. R07 wants you to embrace and enjoy "not knowing" and come up with ideas/solutions yourself. Enjoy thinking about things instead of being told anything and everything about media or hobbies or whatever. Learn how to learn, and enjoy that learning process, you can only learn a new thing once.
+
+TODO: Fighting games tie in? lol
 
 ### Why is this important? Because YOU are part of L2/L3
 
