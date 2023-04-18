@@ -487,43 +487,6 @@
 -   Royalty
 -   Agile
 
-### Tia
-
-| Game                | Character(s)                     | Playstyle                                  | Aesthetic                                 |
-| ------------------- | -------------------------------- | ------------------------------------------ | ----------------------------------------- |
-| Street Fighter 4    | Akuma                            | execution, shoto, momentum                 | martial arts, evil                        |
-| BlazBlue            | Arakune, Noel, Es                | execution, stances, long buttons, momentum | monster, reserved, girl                   |
-| Tekken 7            | Alisa                            | stances, evasion, install                  | robot, hidden power, innocent, girl       |
-| Soul Calibur        | Voldo                            | stances, evasion                           | monster, evil                             |
-| Smash Melee         | Fox                              | execution, momentum, abare                 | soldier, pilot, animal, protagonist       |
-| Smash PM            | Ike                              | execution, long buttons, stance            | royalty, sword, reserved, protagonist     |
-| Smash Ultimate      | Piranha Plant                    | setplay, long buttons                      | monster, comedic                          |
-| Dragonball FighterZ | Android 16, SSJ Goku, SSJ Vegeta | shoto, boxing, aggro                       | determination, martial arts, protagonist  |
-| Marvel vs. Capcom 3 | Sentinel, Vergil, Akuma          | long buttons, high tiers                   | robot, purpose/determination              |
-| Skullgirls          | Cerebella                        | grappler, tanky                            | comedic, girl, boisterous, muscular       |
-| UNIST               | Linne                            | agile, aggro, abare                        | girl, hidden power, reserved, protagonist |
-| Injustice           | Shazam                           | joke                                       | comedic                                   |
-| Mortal Kombat X     | Kung Jin                         | boxing, projectile options                 | protagonist                               |
-| Slap City           | Princess Remedy                  | boxing                                     | royalty, girl                             |
-| Nicktoons All Stars | Spongebob                        | shoto, aggro                               | protagonist, comedic, cartoon             |
-
-#### Playstyle
-
--   High execution
--   Stances
--   Long buttons, boxing
--   High tiers
-
-Try out some Iaido stance characters, stuff like Jin (BBCF), Johnny (GG), Yuzuriha (UNIST), Kouhaku (Melty). They tend to have protagonist energy while usually being either reserved or comedic. Poison (SF5) has some cool stance stuff too, while not really matching your aesthetic.
-
-#### Aesthetic
-
--   Protagonist
--   Hidden power, reserved
--   Comedic
--   Monster
--   Robot
-
 ### Shelby
 
 | Game                    | Character(s)                                         |
