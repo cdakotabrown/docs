@@ -16,7 +16,7 @@
 Create and maintain a quality dashboard to keep track of any relevant products, applications or services. Links to test repositories and boards that track progress on work related to testing. This dashboard should track the team’s test cases alongside metrics on those tests. Metrics include test count by type and code coverage by feature.
 Test count is broken down into three categories: Manual, Automatable, and Automated. Manual refers to anything that requires outside intervention to complete, like a user submitting a form or taking a photograph with a device to upload. Automatable and Automated go hand-in-hand to make up the body of automation cases. Automatable tests can are like a to-do list and Automated is anything from that list that has already been completed. The dashboard should have information related to the numbers and ratios between these categories. It’s important to track how many remaining Automatable tasks there are as well as whether there are any Manual tasks that can be promoted into that pile.
 Code coverage by feature refers to the amount of automation testing that covers any feature that is added to product or service. Viewers of the dashboard at a glance should be able to see the percentage of completed planned automation, and that amount compared to the whole set of Automatable tests.
-What we’re currently using for this: XRay plugins on Jira (<https://jira.walmart.com/projects/WHVCPT?selectedItem=com.xpandit.plugins.xray:testset-panel>)
+What we’re currently using for this: XRay plugins on Jira
 
 -   End to End testing resource planning
     -   Refer to master test plan
