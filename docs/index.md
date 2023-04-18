@@ -98,31 +98,31 @@
 
 ### Doc Brown
 
-| Game                    | Character(s)               |
-| ----------------------- | -------------------------- |
-| Street Fighter 4        | Poison, Zangief            |
-| Street Fighter 5        | Poison, Guile, Birdie      |
-| BlazBlue                | Tager, Jin, Es             |
-| GG +R                   | Faust                      |
-| GG Strive               | Leo, Faust                 |
-| Tekken 7                | Miguel, Paul               |
-| Soul Calibur            | Siegfried                  |
-| Smash Melee             | C.Falcon                   |
-| Smash Ultimate          | Chrom                      |
-| Samurai Showdown 7      | Hibiki                     |
-| Melty Blood MBAACC      | F.Hime                     |
-| Melty Blood TL          | Noel, Kouhaku              |
-| BBTAG                   | Yang/Akatsuki              |
-| Dead or Alive           | Tina                       |
-| Dragonball FighterZ     | Krillin/Android 18/Kefla   |
-| Granblue Fantasy Versus | Percival                   |
-| Skullgirls              | Cerebella/Fillia           |
-| UNIST                   | Akatsuki, Merkava, Vatista |
-| P4A                     | Teddy                      |
-| Mortal Kombat 11        | Baraka                     |
-| Tough Love Arena        | Noodle                     |
-| Nicktoons All Stars     | Spongebob                  |
-| Touhou 12.3             | Komachi, Utsuho            |
+| Game                    | Character(s)           |
+| ----------------------- | ---------------------- |
+| Street Fighter 4        | Poison, Zangief        |
+| Street Fighter 5        | Poison, Guile, Birdie  |
+| BlazBlue                | Jin, Es, Tager         |
+| GG +R                   | Faust                  |
+| GG Strive               | Leo, Faust             |
+| Tekken 7                | Miguel, Paul           |
+| Soul Calibur            | Siegfried              |
+| Smash Melee             | C.Falcon               |
+| Smash Ultimate          | Chrom                  |
+| Samurai Showdown 7      | Hibiki, Tamtam         |
+| Melty Blood MBAACC      | F.Hime                 |
+| Melty Blood TL          | Noel, Kouhaku          |
+| BBTAG                   | Yang/Akatsuki          |
+| Dead or Alive           | Tina                   |
+| Granblue Fantasy Versus | Percival               |
+| Marvel vs. Capcom 3     | Deadpool/Dante/Vergil  |
+| Skullgirls              | Cerebella/Fillia       |
+| UNIST                   | Akatsuki, Wagner, Yuzu |
+| P4A                     | Teddy, Mitsuru         |
+| Mortal Kombat 11        | Baraka                 |
+| Tough Love Arena        | Noodle                 |
+| Nicktoons All Stars     | Spongebob              |
+| Touhou 12.3             | Komachi, Utsuho        |
 
 #### Playstyle
 
@@ -147,13 +147,14 @@
 | Smash PM                | Lucario                           |
 | Smash Ultimate          | C.Falcon, K-Rool, Hero            |
 | Samurai Showdown 7      | Gongsun Li                        |
-| Melty Blood TL          | Akiha                             |
+| Melty Blood TL          | Aoko                              |
 | BBTAG                   | Rachel/Yu                         |
 | Dead or Alive           | Mila                              |
+| Marvel vs. Capcom 3     | Deadpool/Doom/Vergil              |
 | Dragonball FighterZ     | Trunks/Ginyu/A.Gohan              |
 | Granblue Fantasy Versus | Narmaya, Lowain                   |
 | Skullgirls              | Squiggly/Big Band/Filia           |
-| UNIST                   | Lynn                              |
+| UNIST                   | Nanase                            |
 | P4A                     | Yu, Rise                          |
 | Injustice               | Shazam                            |
 
@@ -523,7 +524,7 @@ Try out some Iaido stance characters, stuff like Jin (BBCF), Johnny (GG), Yuzuri
 -   Monster
 -   Robot
 
-### E-Girl
+### Shelby
 
 | Game                    | Character(s)                                         |
 | ----------------------- | ---------------------------------------------------- |
@@ -565,3 +566,34 @@ Try out some Iaido stance characters, stuff like Jin (BBCF), Johnny (GG), Yuzuri
 #### Aesthetic
 
 -
+
+### Shaly
+
+| Game                    | Character(s)           |
+| ----------------------- | ---------------------- |
+| Street Fighter 4        | Ken                    |
+| Street Fighter 5        | Ken                    |
+| BlazBlue                | Celica                 |
+| GG +R                   | Chipp                  |
+| GG Xrd                  | Ram                    |
+| GG Strive               | Chipp, Millia          |
+| Tekken 7                | Noctis                 |
+| Soul Calibur            | Setsuka                |
+| Smash Melee             | Falco, Gannondorf      |
+| Smash PM                | Falco                  |
+| Smash Ultimate          | King Krool             |
+| Samurai Showdown 7      | Nakoruru               |
+| Melty Blood MBAACC      | F Nanaya               |
+| Melty Blood TL          | Dead Apostle Noel      |
+| BBTAG                   | Yu & Hyde              |
+| Dead or Alive           | Ayane                  |
+| Dragonball FighterZ     | Krillin, Tien, Roshi   |
+| Granblue Fantasy Versus | Beelzebub              |
+| Marvel vs. Capcom 3     | Chris, Wesker, Nemesis |
+| Skullgirls              | Fukua                  |
+| UNIST                   | Seth, Hyde             |
+| P4A                     | Sho (no sona)          |
+| Injustice               | Zatanna                |
+| Mortal Kombat X         | Jason Vorhees          |
+| Mortal Kombat 11        | Johnny                 |
+| Killer Instinct         | Raam                   |
