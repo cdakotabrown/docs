@@ -78,11 +78,11 @@
 
 ### ClaireLynnD
 
-| Game        | Character(s)        |
-| ----------- | ------------------- |
-| GG Strive   | May                 |
-| Tekken 7    | Kazumi              |
-| Smash Melee | Ice Climbers, Marth |
+| Game        | Character(s)      |
+| ----------- | ----------------- |
+| GG Strive   | Baiken, May       |
+| Tekken 7    | Lucky Chloe       |
+| Smash Melee | Ice Climbers, Fox |
 
 #### Playstyle
 
