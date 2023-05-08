@@ -64,49 +64,49 @@
 
 | Game                       | Character(s)                                                                                        |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
-| Jojo: HftF                 | Dio, Hol Horse, Shadow Dio                                                                          |
-| Street Fighter 2           | Cammy, Guile, Ken                                                                                   |
-| Street Fighter Alpha 2     | Ken, Charlie, Birdie                                                                                |
-| Street Fighter 3           | Ken, Alex                                                                                           |
-| Street Fighter 4           | Ken, Abel, Cammy, Cody, Guile, Rufus                                                                |
-| Street Fighter 5           | Alex, Birdie, Cammy, Cody, Ed, Falke, Gill, Guile, Karin, Ken, Kolin, Lucia, Luke, Nash, Vega, Mika |
-| BlazBlue                   | Es, Trinity, Noel, Mu-12, Jin, Rachel, Carl, Lambda-11                                              |
-| GG +R                      | Axl, Bridget, Milia, Ky, Johnny, Eddie, Robo Ky                                                     |
-| GG Xrd                     | Answer, Axl, Ky, Leo, Ram, Johnny, Zato, Sin, Milia                                                 |
-| GG Strive                  | Milia, Ky, Zato, Sin, Leo, Axl, Ram, Bridget                                                        |
-| Tekken 7                   | Bob, Leo, Lidia, Lili, Lucky Chloe, Nina, Paul, Geese                                               |
-| Soulcalibur                | Cassandra, Raphael, Siegfried, Sophitia                                                             |
-| Smash Melee                | Peach, Zelda, Sheik, Link, Toon Link                                                                |
-| Smash PM                   | Peach, Toon Link, ZSS, Lucas, Link, Sheik                                                           |
-| Smash Ultimate             | Peach, Zelda, Sheik, ZSS, Toon Link, Link, Lucas, Rosalina, Cloud, MinMin, Shulk, Terry, Simon      |
-| Samurai Showdown 7         | Charlotte, Galford                                                                                  |
-| Melty Blood MBAACC         | Hime, Warachia, Arc, Warc, Neco-Arc                                                                 |
-| Melty Blood TL             | Arc, Warc, Saber, Mario, Neco-Arc                                                                   |
-| BBTAG                      | Jin, Noel, Rachel, Trinity, Es, Kanji, Aegis, Hyde, Hilda, Mika, Yang                               |
-| Dead or Alive              | Tina, Helena, Marie Rose, Eliot, Rachel                                                             |
-| Dragonball FighterZ        | SS Goku, SS Vegeta, Future Trunks, Android 18, Gotenks, Teen Gohan                                  |
-| Granblue Fantasy Versus    | Djeeta, Beelzebub, Vira, Katalina, Metera, Charlotta, Zeta, Lowain, Cagliostro                      |
-| Marvel vs. Capcom 2        | Captain Commando, B.B.Hood, Ken, Charlie, Guile, Roll                                               |
-| Marvel vs. Capcom 3        | Trish, Wesker, Jill, Thor                                                                           |
-| Marvel vs. Capcom Infinite | Hawkeye, Captain Marvel                                                                             |
-| Skullgirls                 | Filia (By Technicality)                                                                             |
-| King of Fighters 15        | Andy, Ash, B.Jenet, Benimaru, Blue Mary, Clark, Geese, King, Ramon, Rock, Ryo, Terry                |
-| Under Night                | Hilda, Mika, Wagner                                                                                 |
-| P4A                        | Aigis, Kanji                                                                                        |
-| Umineko Musou              | Beatrice, Lambda, Jessica                                                                           |
-| Injustice                  | Aquaman                                                                                             |
-| Injustice 2                | Harley Quinn, Supergirl, Black Canary                                                               |
-| Mortal Kombat X            | Cassie, Sonya                                                                                       |
-| Mortal Kombat 11           | Cassie, Sonya                                                                                       |
-| Killer Instinct            | Tusk                                                                                                |
-| Tough Love Arena           | N/A                                                                                                 |
-| Slap City                  | Ittle Dew, Jenny, Goddess                                                                           |
-| Nicktoons All Stars        | Helga,                                                                                              |
+| BBTAG                      | Aegis, Es, Hilda, Hyde, Jin, Kanji, Mika, Noel, Rachel, Trinity, Yang                               |
+| BlazBlue                   | Carl, Es, Jin, Lambda-11, Mu-12, Noel, Rachel, Trinity                                              |
+| Dead or Alive              | Eliot, Helena, MarieRose, Rachel, Tina                                                              |
+| Dengeki Bunko              | Kirino, Quenser, Shizuo , (Leafa assist)                                                            |
 | DNF Duel                   | Berserker, Launcher, Troubleshooter                                                                 |
-| Sailor Moon S              | Moon, Venus, Uranus                                                                                 |
-| Dengeki Bunko              | Kirino, Quenser, Shizuo, (Leafa assist)                                                             |
+| Dragonball FighterZ        | Android 18, Future Trunks, Gotenks, SS.Goku, SS.Vegeta, Teen Gohan                                  |
+| GG +R                      | Axl, Bridget, Eddie, Johnny, Ky, Milia, RoboKy                                                      |
+| GG Strive                  | Axl, Bridget, Ky, Leo, Milia, Ram, Sin, Zato                                                        |
+| GG Xrd                     | Answer, Axl, Johnny, Ky, Leo, Milia, Ram, Sin, Zato                                                 |
+| Granblue Fantasy Versus    | Beelzebub, Cagliostro, Charlotta, Djeeta, Katalina, Lowain, Metera, Vira, Zeta                      |
+| Injustice                  | Aquaman                                                                                             |
+| Injustice 2                | Black Canary, Harley Quinn, Supergirl                                                               |
+| Jojo: HftF                 | Dio, Hol Horse, Shadow Dio                                                                          |
+| Killer Instinct            | Tusk                                                                                                |
+| King of Fighters 15        | Andy, Ash, B.Jenet, Benimaru, Blue Mary, Clark, Geese, King, Ramon, Rock, Ryo, Terry                |
+| Marvel vs. Capcom 2        | B.B.Hood, Captain Commando, Charlie, Guile, Ken, Roll                                               |
+| Marvel vs. Capcom 3        | Jill, Thor, Trish, Wesker                                                                           |
+| Marvel vs. Capcom Infinite | Captain Marvel, Hawkeye                                                                             |
+| Melty Blood MBAACC         | Arc, Hime, Neco-Arc, Warachia, Warc                                                                 |
+| Melty Blood TL             | Arc, Mario, Neco-Arc, Saber, Warc                                                                   |
+| Mortal Kombat 11           | Cassie, Sonya                                                                                       |
+| Mortal Kombat X            | Cassie, Sonya                                                                                       |
+| Nicktoons All Stars        | Helga                                                                                               |
+| P4A                        | Aigis, Kanji                                                                                        |
+| Sailor Moon S              | Moon, Uranus, Venus                                                                                 |
+| Samurai Showdown 7         | Charlotte, Galford                                                                                  |
+| Skullgirls                 | Filia (By Technicality)                                                                             |
+| Slap City                  | Goddess, Ittle Dew, Jenny                                                                           |
+| Smash Melee                | Link, Peach, Sheik, Young Link, Zelda                                                               |
+| Smash PM                   | Link, Lucas, Peach, Sheik, Toon Link, ZSS                                                           |
+| Smash Ultimate             | Cloud, Link, Lucas, MinMin, Peach, Rosalina, Sheik, Shulk, Simon, Terry, Toon Link, Zelda, ZSS      |
+| Soulcalibur                | Cassandra, Raphael, Siegfried, Sophitia                                                             |
+| Street Fighter 2           | Cammy, Guile, Ken                                                                                   |
+| Street Fighter 3           | Alex, Ken                                                                                           |
+| Street Fighter 4           | Abel, Cammy, Cody, Guile, Ken, Rufus                                                                |
+| Street Fighter 5           | Alex, Birdie, Cammy, Cody, Ed, Falke, Gill, Guile, Karin, Ken, Kolin, Lucia, Luke, Mika, Nash, Vega |
+| Street Fighter Alpha 2     | Birdie, Charlie, Ken                                                                                |
+| Tekken 7                   | Bob, Geese, Leo, Lidia, Lili, Lucky Chloe, Nina, Paul                                               |
+| Tough Love Arena           | N/A                                                                                                 |
+| Touhou 12.3                | Alice, Marisa, Suika, Suwako, Yukari                                                                |
+| Umineko Musou              | Beatrice, Jessica, Lambda                                                                           |
+| Under Night                | Hilda, Mika, Wagner                                                                                 |
 | Vampire Savior             | Bulleta, Victor                                                                                     |
-| Touhou 12.3                | Suika, Alice, Suwako, Yukari, Marisa                                                                |
 
 #### Playstyle
 
