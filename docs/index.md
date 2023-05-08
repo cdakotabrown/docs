@@ -1,5 +1,72 @@
 # Fightan lists thing
 
+-   [Fightan lists thing](#fightan-lists-thing)
+    -   [Template](#template)
+        -   [Name](#name)
+            -   [Playstyle](#playstyle)
+            -   [Aesthetic](#aesthetic)
+    -   [Players](#players)
+        -   [Blondes](#blondes)
+            -   [Playstyle](#playstyle-1)
+            -   [Aesthetic](#aesthetic-1)
+        -   [Blonde Boys](#blonde-boys)
+            -   [Playstyle](#playstyle-2)
+            -   [Aesthetic](#aesthetic-2)
+        -   [Blonde Girls](#blonde-girls)
+            -   [Playstyle](#playstyle-3)
+            -   [Aesthetic](#aesthetic-3)
+        -   [Lumia](#lumia)
+            -   [Playstyle](#playstyle-4)
+            -   [Aesthetic](#aesthetic-4)
+        -   [ClaireLynnD](#clairelynnd)
+            -   [Playstyle](#playstyle-5)
+            -   [Aesthetic](#aesthetic-5)
+        -   [Doc Brown](#doc-brown)
+            -   [Playstyle](#playstyle-6)
+            -   [Aesthetic](#aesthetic-6)
+        -   [Phantom Bear](#phantom-bear)
+            -   [Playstyle](#playstyle-7)
+            -   [Aesthetic](#aesthetic-7)
+        -   [Mikayy](#mikayy)
+            -   [Playstyle](#playstyle-8)
+            -   [Aesthetic](#aesthetic-8)
+        -   [Multistorm](#multistorm)
+            -   [Playstyle](#playstyle-9)
+            -   [Aesthetic](#aesthetic-9)
+        -   [OceanDad](#oceandad)
+            -   [Playstyle](#playstyle-10)
+            -   [Aesthetic](#aesthetic-10)
+        -   [Driftwood](#driftwood)
+            -   [Playstyle](#playstyle-11)
+            -   [Aesthetic](#aesthetic-11)
+        -   [Randy Newman](#randy-newman)
+            -   [Playstyle](#playstyle-12)
+            -   [Aesthetic](#aesthetic-12)
+        -   [Jake Denne](#jake-denne)
+            -   [Playstyle](#playstyle-13)
+            -   [Aesthetic](#aesthetic-13)
+        -   [Yachttors](#yachttors)
+            -   [Playstyle](#playstyle-14)
+            -   [Aesthetic](#aesthetic-14)
+        -   [Culex](#culex)
+            -   [Playstyle](#playstyle-15)
+            -   [Aesthetic](#aesthetic-15)
+        -   [Chef](#chef)
+            -   [Playstyle](#playstyle-16)
+            -   [Aesthetic](#aesthetic-16)
+        -   [Mexiken](#mexiken)
+            -   [Playstyle](#playstyle-17)
+            -   [Aesthetic](#aesthetic-17)
+        -   [Yujin](#yujin)
+            -   [Playstyle](#playstyle-18)
+            -   [Aesthetic](#aesthetic-18)
+        -   [Shelby](#shelby)
+            -   [Playstyle](#playstyle-19)
+            -   [Aesthetic](#aesthetic-19)
+        -   [Shaly](#shaly)
+            -   [Playstyle](#playstyle-20)
+            -   [Aesthetic](#aesthetic-20)
+
 ## Template
 
 ### Name
@@ -691,3 +758,11 @@
 | Street Fighter 5        | Ken                    |
 | Tekken 7                | Noctis                 |
 | UNIST                   | Seth, Hyde             |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
