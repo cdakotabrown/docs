@@ -4,38 +4,51 @@
 
 ### Name
 
-| Game                    | Character(s) |
-| ----------------------- | ------------ |
-| Street Fighter 4        |              |
-| Street Fighter 5        |              |
-| BlazBlue                |              |
-| GG +R                   |              |
-| GG Xrd                  |              |
-| GG Strive               |              |
-| Tekken 7                |              |
-| Soul Calibur            |              |
-| Smash Melee             |              |
-| Smash PM                |              |
-| Smash Ultimate          |              |
-| Samurai Showdown 7      |              |
-| Melty Blood MBAACC      |              |
-| Melty Blood TL          |              |
-| BBTAG                   |              |
-| Dead or Alive           |              |
-| Dragonball FighterZ     |              |
-| Granblue Fantasy Versus |              |
-| Marvel vs. Capcom 3     |              |
-| Skullgirls              |              |
-| UNIST                   |              |
-| P4A                     |              |
-| Injustice               |              |
-| Mortal Kombat X         |              |
-| Mortal Kombat 11        |              |
-| Killer Instinct         |              |
-| Tough Love Arena        |              |
-| Slap City               |              |
-| Nicktoons All Stars     |              |
-| Touhou 12.3             |              |
+| Game                       | Character(s) |
+| -------------------------- | ------------ |
+| Jojo: HftF                 |              |
+| Street Fighter 2           |              |
+| Street Fighter Alpha 2     |              |
+| Street Fighter 3           |              |
+| Street Fighter 4           |              |
+| Street Fighter 5           |              |
+| BlazBlue                   |              |
+| GG +R                      |              |
+| GG Xrd                     |              |
+| GG Strive                  |              |
+| Tekken 7                   |              |
+| Soulcalibur                |              |
+| Smash Melee                |              |
+| Smash PM                   |              |
+| Smash Ultimate             |              |
+| Samurai Showdown 7         |              |
+| Melty Blood MBAACC         |              |
+| Melty Blood TL             |              |
+| BBTAG                      |              |
+| Dead or Alive              |              |
+| Dragonball FighterZ        |              |
+| Granblue Fantasy Versus    |              |
+| Marvel vs. Capcom 2        |              |
+| Marvel vs. Capcom 3        |              |
+| Marvel vs. Capcom Infinite |              |
+| Skullgirls                 |              |
+| King of Fighters 15        |              |
+| Under Night                |              |
+| P4A                        |              |
+| Umineko Musou              |              |
+| Injustice                  |              |
+| Injustice 2                |              |
+| Mortal Kombat X            |              |
+| Mortal Kombat 11           |              |
+| Killer Instinct            |              |
+| Tough Love Arena           |              |
+| Slap City                  |              |
+| Nicktoons All Stars        |              |
+| DNF Duel                   |              |
+| Sailor Moon S              |              |
+| Dengeki Bunko              |              |
+| Vampire Savior             |              |
+| Touhou 12.3                |              |
 
 #### Playstyle
 
@@ -46,6 +59,124 @@
 -
 
 ## Players
+
+### Blondes
+
+| Game                       | Character(s)                                                                                        |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| Jojo: HftF                 | Dio, Hol Horse, Shadow Dio                                                                          |
+| Street Fighter 2           | Cammy, Guile, Ken                                                                                   |
+| Street Fighter Alpha 2     | Ken, Charlie, Birdie                                                                                |
+| Street Fighter 3           | Ken, Alex                                                                                           |
+| Street Fighter 4           | Ken, Abel, Cammy, Cody, Guile, Rufus                                                                |
+| Street Fighter 5           | Alex, Birdie, Cammy, Cody, Ed, Falke, Gill, Guile, Karin, Ken, Kolin, Lucia, Luke, Nash, Vega, Mika |
+| BlazBlue                   | Es, Trinity, Noel, Mu-12, Jin, Rachel, Carl, Lambda-11                                              |
+| GG +R                      | Axl, Bridget, Milia, Ky, Johnny, Eddie, Robo Ky                                                     |
+| GG Xrd                     | Answer, Axl, Ky, Leo, Ram, Johnny, Zato, Sin, Milia                                                 |
+| GG Strive                  | Milia, Ky, Zato, Sin, Leo, Axl, Ram, Bridget                                                        |
+| Tekken 7                   | Bob, Leo, Lidia, Lili, Lucky Chloe, Nina, Paul, Geese                                               |
+| Soulcalibur                | Cassandra, Raphael, Siegfried, Sophitia                                                             |
+| Smash Melee                | Peach, Zelda, Sheik, Link, Toon Link                                                                |
+| Smash PM                   | Peach, Toon Link, ZSS, Lucas, Link, Sheik                                                           |
+| Smash Ultimate             | Peach, Zelda, Sheik, ZSS, Toon Link, Link, Lucas, Rosalina, Cloud, MinMin, Shulk, Terry, Simon      |
+| Samurai Showdown 7         | Charlotte, Galford                                                                                  |
+| Melty Blood MBAACC         | Hime, Warachia, Arc, Warc, Neco-Arc                                                                 |
+| Melty Blood TL             | Arc, Warc, Saber, Mario, Neco-Arc                                                                   |
+| BBTAG                      | Jin, Noel, Rachel, Trinity, Es, Kanji, Aegis, Hyde, Hilda, Mika, Yang                               |
+| Dead or Alive              | Tina, Helena, Marie Rose, Eliot, Rachel                                                             |
+| Dragonball FighterZ        | SS Goku, SS Vegeta, Future Trunks, Android 18, Gotenks, Teen Gohan                                  |
+| Granblue Fantasy Versus    | Djeeta, Beelzebub, Vira, Katalina, Metera, Charlotta, Zeta, Lowain, Cagliostro                      |
+| Marvel vs. Capcom 2        | Captain Commando, B.B.Hood, Ken, Charlie, Guile, Roll                                               |
+| Marvel vs. Capcom 3        | Trish, Wesker, Jill, Thor                                                                           |
+| Marvel vs. Capcom Infinite | Hawkeye, Captain Marvel                                                                             |
+| Skullgirls                 | Filia (By Technicality)                                                                             |
+| King of Fighters 15        | Andy, Ash, B.Jenet, Benimaru, Blue Mary, Clark, Geese, King, Ramon, Rock, Ryo, Terry                |
+| Under Night                | Hilda, Mika, Wagner                                                                                 |
+| P4A                        | Aigis, Kanji                                                                                        |
+| Umineko Musou              | Beatrice, Lambda, Jessica                                                                           |
+| Injustice                  | Aquaman                                                                                             |
+| Injustice 2                | Harley Quinn, Supergirl, Black Canary                                                               |
+| Mortal Kombat X            | Cassie, Sonya                                                                                       |
+| Mortal Kombat 11           | Cassie, Sonya                                                                                       |
+| Killer Instinct            | Tusk                                                                                                |
+| Tough Love Arena           | N/A                                                                                                 |
+| Slap City                  | Ittle Dew, Jenny, Goddess                                                                           |
+| Nicktoons All Stars        | Helga,                                                                                              |
+| DNF Duel                   | Berserker, Launcher, Troubleshooter                                                                 |
+| Sailor Moon S              | Moon, Venus, Uranus                                                                                 |
+| Dengeki Bunko              | Kirino, Quenser, Shizuo, (Leafa assist)                                                             |
+| Vampire Savior             | Bulleta, Victor                                                                                     |
+| Touhou 12.3                | Suika, Alice, Suwako, Yukari, Marisa                                                                |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
+
+### Blonde Boys
+
+| Game                    | Character(s)          | Game                       | Character(s)                   |
+| ----------------------- | --------------------- | -------------------------- | ------------------------------ |
+| Street Fighter 2        | Guile                 | Street Fighter Alpha 2     | Ken                            |
+| Street Fighter 3        | Ken                   | Street Fighter 4           | Abel                           |
+| Street Fighter 5        | Cody                  | BlazBlue                   | Carl                           |
+| GG +R                   | Axl                   | GG Xrd                     | Johnny                         |
+| GG Strive               | Leo                   | Tekken 7                   | Paul                           |
+| Soulcalibur             | Siegfried             | Smash Melee                | Link                           |
+| Smash PM                | Lucas                 | Smash Ultimate             | Cloud                          |
+| Samurai Showdown 7      | Galford               | Melty Blood MBAACC         | F.Warachia                     |
+| Melty Blood TL          | Mario                 | BBTAG                      | Jin/Kanji                      |
+| Dead or Alive           | Eliot                 | Dragonball FighterZ        | SS.Goku/Gotenks/Teen Gohan     |
+| Granblue Fantasy Versus | Beelzebub             | Marvel vs. Capcom 2        | Captain Commando/Charlie/Guile |
+| Marvel vs. Capcom 3     | Wesker/Jill/Thor      | Marvel vs. Capcom Infinite | Hawkeye/Captain Marvel         |
+| Under Night             | Hyde                  | King of Fighters 15        | Benimaru/Geese/Ryo             |
+| Jojo: HftF              | Dio                   | P4A                        | Kanji                          |
+| Vampire Savior          | Victor                | Injustice                  | Aquaman                        |
+| Dengeki Bunko           | Shizuo (Leafa assist) | Killer Instinct            | Tusk                           |
+| DNF Duel                | Troubleshooter        |                            |                                |
+
+#### Playstyle
+
+-   Refuses to play women outside of team games where they must
+
+#### Aesthetic
+
+-   Blonde boys
+
+### Blonde Girls
+
+| Game                    | Character(s)          | Game                       | Character(s)                   |
+| ----------------------- | --------------------- | -------------------------- | ------------------------------ |
+| Street Fighter 2        | Cammy                 | Street Fighter 4           | Cammy                          |
+| Street Fighter 5        | Karin                 | BlazBlue                   | Rachel                         |
+| GG +R                   | Milia                 | GG Xrd                     | Milia                          |
+| GG Strive               | Milia                 | Tekken 7                   | Lidia                          |
+| Soulcalibur             | Sophitia              | Smash Melee                | Sheik                          |
+| Smash PM                | Zero Suit Samus       | Smash Ultimate             | Peach                          |
+| Samurai Showdown 7      | Charlotte             | Melty Blood MBAACC         | F.Hime                         |
+| Melty Blood TL          | Red Arc               | BBTAG                      | Yang/Es                        |
+| Dead or Alive           | Tina                  | Dragonball FighterZ        | Android 18/Gotenks/Teen Gohan  |
+| Granblue Fantasy Versus | Djeeta                | Marvel vs. Capcom 2        | Captain Commando/B.B.Hood/Roll |
+| Marvel vs. Capcom 3     | Trish/Wesker/Jill     | Marvel vs. Capcom Infinite | Hawkeye/Captain Marvel         |
+| Skullgirls              | Filia                 | King of Fighters 15        | B.Jenet/Blue Mary/King         |
+| Under Night             | Wagner                | P4A                        | Aigis                          |
+| Umineko Musou           | Beatrice/Jessica      | Injustice 2                | Supergirl                      |
+| Mortal Kombat X         | Cassie                | Mortal Kombat 11           | Cassie                         |
+| Slap City               | Ittle Dew             | Nicktoons All Stars        | Helga                          |
+| DNF Duel                | Launcher              | Sailor Moon S              | Venus                          |
+| Dengeki Bunko           | Kirino (Leafa assist) | Vampire Savior             | Bulleta                        |
+| Touhou 12.3             | Marisa                |
+
+#### Playstyle
+
+-   Refuses to play men outside of team games where they must
+
+#### Aesthetic
+
+-   Blonde girls
 
 ### Lumia
 
