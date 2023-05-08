@@ -6,49 +6,49 @@
 
 | Game                       | Character(s) |
 | -------------------------- | ------------ |
-| Jojo: HftF                 |              |
-| Street Fighter 2           |              |
-| Street Fighter Alpha 2     |              |
-| Street Fighter 3           |              |
-| Street Fighter 4           |              |
-| Street Fighter 5           |              |
-| BlazBlue                   |              |
-| GG +R                      |              |
-| GG Xrd                     |              |
-| GG Strive                  |              |
-| Tekken 7                   |              |
-| Soulcalibur                |              |
-| Smash Melee                |              |
-| Smash PM                   |              |
-| Smash Ultimate             |              |
-| Samurai Showdown 7         |              |
-| Melty Blood MBAACC         |              |
-| Melty Blood TL             |              |
 | BBTAG                      |              |
+| BlazBlue                   |              |
 | Dead or Alive              |              |
+| Dengeki Bunko              |              |
+| DNF Duel                   |              |
 | Dragonball FighterZ        |              |
+| GG +R                      |              |
+| GG Strive                  |              |
+| GG Xrd                     |              |
 | Granblue Fantasy Versus    |              |
+| Injustice                  |              |
+| Injustice 2                |              |
+| Jojo: HftF                 |              |
+| Killer Instinct            |              |
+| King of Fighters 15        |              |
 | Marvel vs. Capcom 2        |              |
 | Marvel vs. Capcom 3        |              |
 | Marvel vs. Capcom Infinite |              |
-| Skullgirls                 |              |
-| King of Fighters 15        |              |
-| Under Night                |              |
-| P4A                        |              |
-| Umineko Musou              |              |
-| Injustice                  |              |
-| Injustice 2                |              |
-| Mortal Kombat X            |              |
+| Melty Blood MBAACC         |              |
+| Melty Blood TL             |              |
 | Mortal Kombat 11           |              |
-| Killer Instinct            |              |
-| Tough Love Arena           |              |
-| Slap City                  |              |
+| Mortal Kombat X            |              |
 | Nicktoons All Stars        |              |
-| DNF Duel                   |              |
+| P4A                        |              |
 | Sailor Moon S              |              |
-| Dengeki Bunko              |              |
-| Vampire Savior             |              |
+| Samurai Showdown 7         |              |
+| Skullgirls                 |              |
+| Slap City                  |              |
+| Smash Melee                |              |
+| Smash PM                   |              |
+| Smash Ultimate             |              |
+| Soulcalibur                |              |
+| Street Fighter 2           |              |
+| Street Fighter 3           |              |
+| Street Fighter 4           |              |
+| Street Fighter 5           |              |
+| Street Fighter Alpha 2     |              |
+| Tekken 7                   |              |
+| Tough Love Arena           |              |
 | Touhou 12.3                |              |
+| Umineko Musou              |              |
+| Under Night                |              |
+| Vampire Savior             |              |
 
 #### Playstyle
 
@@ -183,15 +183,15 @@
 | Game           | Character(s)              |
 | -------------- | ------------------------- |
 | BlazBlue       | Carl                      |
-| UNIST          | Chaos                     |
 | GG +R          | Bridget                   |
 | GG Strive      | May, Jack-o               |
-| P4AU           | Ken                       |
-| Soul Calibur   | Talim                     |
 | Melty Blood TL | Maids (pair)              |
-| Smash          | Ness                      |
 | MVC3           | Morrigan/Dante/Frank West |
+| P4AU           | Ken                       |
+| Smash          | Ness                      |
+| Soul Calibur   | Talim                     |
 | Tekken 7       | Kazumi                    |
+| UNIST          | Chaos                     |
 
 #### Playstyle
 
@@ -212,8 +212,8 @@
 | Game        | Character(s)      |
 | ----------- | ----------------- |
 | GG Strive   | Baiken, May       |
-| Tekken 7    | Lucky Chloe       |
 | Smash Melee | Ice Climbers, Fox |
+| Tekken 7    | Lucky Chloe       |
 
 #### Playstyle
 
@@ -231,29 +231,29 @@
 
 | Game                    | Character(s)           |
 | ----------------------- | ---------------------- |
-| Street Fighter 4        | Poison, Zangief        |
-| Street Fighter 5        | Poison, Guile, Birdie  |
+| BBTAG                   | Yang/Akatsuki          |
 | BlazBlue                | Jin, Es, Tager         |
+| Dead or Alive           | Tina                   |
 | GG +R                   | Faust                  |
 | GG Strive               | Leo, Faust             |
-| Tekken 7                | Miguel, Paul           |
-| Soul Calibur            | Siegfried              |
-| Smash Melee             | C.Falcon               |
-| Smash Ultimate          | Chrom                  |
-| Samurai Showdown 7      | Hibiki, Tamtam         |
-| Melty Blood MBAACC      | F.Hime                 |
-| Melty Blood TL          | Noel, Kouhaku          |
-| BBTAG                   | Yang/Akatsuki          |
-| Dead or Alive           | Tina                   |
 | Granblue Fantasy Versus | Percival               |
 | Marvel vs. Capcom 3     | Deadpool/Dante/Vergil  |
-| Skullgirls              | Cerebella/Fillia       |
-| UNIST                   | Akatsuki, Wagner, Yuzu |
-| P4A                     | Teddy, Mitsuru         |
+| Melty Blood MBAACC      | F.Hime                 |
+| Melty Blood TL          | Noel, Kouhaku          |
 | Mortal Kombat 11        | Baraka                 |
-| Tough Love Arena        | Noodle                 |
 | Nicktoons All Stars     | Spongebob              |
+| P4A                     | Teddy, Mitsuru         |
+| Samurai Showdown 7      | Hibiki, Tamtam         |
+| Skullgirls              | Cerebella/Fillia       |
+| Smash Melee             | C.Falcon               |
+| Smash Ultimate          | Chrom                  |
+| Soul Calibur            | Siegfried              |
+| Street Fighter 4        | Poison, Zangief        |
+| Street Fighter 5        | Poison, Guile, Birdie  |
+| Tekken 7                | Miguel, Paul           |
+| Tough Love Arena        | Noodle                 |
 | Touhou 12.3             | Komachi, Utsuho        |
+| UNIST                   | Akatsuki, Wagner, Yuzu |
 
 #### Playstyle
 
@@ -267,27 +267,27 @@
 
 | Game                    | Character(s)                      |
 | ----------------------- | --------------------------------- |
-| Street Fighter 4        | Sakura                            |
-| Street Fighter 5        | Sakura                            |
+| BBTAG                   | Rachel/Yu                         |
 | BlazBlue Series         | Jin, Hazama, Terumi, Izanami, Mai |
+| Dead or Alive           | Mila                              |
+| Dragonball FighterZ     | Trunks/Ginyu/A.Gohan              |
 | GG +R                   | Jam                               |
 | GG Strive               | Ky, Jack-o                        |
-| Tekken 7                | Julia, Xiaoyu                     |
-| Soul Calibur            | Xiang-hua, Amy                    |
+| Granblue Fantasy Versus | Narmaya, Lowain                   |
+| Injustice               | Shazam                            |
+| Marvel vs. Capcom 3     | Deadpool/Doom/Vergil              |
+| Melty Blood TL          | Aoko                              |
+| P4A                     | Yu, Rise                          |
+| Samurai Showdown 7      | Gongsun Li                        |
+| Skullgirls              | Squiggly/Big Band/Filia           |
 | Smash Melee             | Fox, Lucario                      |
 | Smash PM                | Lucario                           |
 | Smash Ultimate          | C.Falcon, K-Rool, Hero            |
-| Samurai Showdown 7      | Gongsun Li                        |
-| Melty Blood TL          | Aoko                              |
-| BBTAG                   | Rachel/Yu                         |
-| Dead or Alive           | Mila                              |
-| Marvel vs. Capcom 3     | Deadpool/Doom/Vergil              |
-| Dragonball FighterZ     | Trunks/Ginyu/A.Gohan              |
-| Granblue Fantasy Versus | Narmaya, Lowain                   |
-| Skullgirls              | Squiggly/Big Band/Filia           |
+| Soul Calibur            | Xiang-hua, Amy                    |
+| Street Fighter 4        | Sakura                            |
+| Street Fighter 5        | Sakura                            |
+| Tekken 7                | Julia, Xiaoyu                     |
 | UNIST                   | Nanase                            |
-| P4A                     | Yu, Rise                          |
-| Injustice               | Shazam                            |
 
 #### Playstyle
 
@@ -304,16 +304,16 @@
 
 | Game                    | Character(s)  |
 | ----------------------- | ------------- |
-| Street Fighter 5        | Sakura        |
 | GG Strive               | Giovanna, Ky  |
-| Tekken 7                | Josie         |
+| Granblue Fantasy Versus | Katalina      |
+| Melty Blood TL          | Red Arc       |
+| Mortal Kombat 11        | Frost         |
 | Smash Melee             | Fox, Falco    |
 | Smash PM                | Fox, Roy      |
 | Smash Ultimate          | Pythra, Chrom |
-| Melty Blood TL          | Red Arc       |
-| Granblue Fantasy Versus | Katalina      |
+| Street Fighter 5        | Sakura        |
+| Tekken 7                | Josie         |
 | UNIST                   | Nanase, Yuzu  |
-| Mortal Kombat 11        | Frost         |
 
 #### Playstyle
 
@@ -333,15 +333,15 @@
 | Game               | Character(s)        |
 | ------------------ | ------------------- |
 | GG +R              | Axl, Sol            |
-| GG Xrd             | Elphelt             |
 | GG Strive          | Ram                 |
-| Tekken 7           | Miguel, Kazumi      |
-| Soul Calibur       | Kilik               |
-| Smash Melee        | Sheik               |
-| Smash Ultimate     | Inkling, Puff, Wolf |
+| GG Xrd             | Elphelt             |
 | Melty Blood MBAACC | F.Hime              |
 | Melty Blood TL     | Red Arc             |
 | Skullgirls         | Beowulf, Big Band   |
+| Smash Melee        | Sheik               |
+| Smash Ultimate     | Inkling, Puff, Wolf |
+| Soul Calibur       | Kilik               |
+| Tekken 7           | Miguel, Kazumi      |
 | UNIST              | Phonon              |
 
 #### Playstyle
@@ -363,18 +363,18 @@
 
 | Game                    | Character(s)             |
 | ----------------------- | ------------------------ |
-| Street Fighter 5        | Kolin                    |
+| Dead or Alive           | Bass                     |
 | GG +R                   | Jam, Sol                 |
 | GG Strive               | I-no, Gio                |
-| Tekken 7                | Julia, Bryan, Armor King |
-| Soul Calibur            | Tira                     |
+| Granblue Fantasy Versus | Ferry                    |
+| Mortal Kombat 11        | Kollector                |
+| Samurai Showdown 7      | Darli                    |
 | Smash Melee             | Ganon, Falcon            |
 | Smash PM                | Ganon, Mario             |
 | Smash Ultimate          | Ganon                    |
-| Samurai Showdown 7      | Darli                    |
-| Dead or Alive           | Bass                     |
-| Granblue Fantasy Versus | Ferry                    |
-| Mortal Kombat 11        | Kollector                |
+| Soul Calibur            | Tira                     |
+| Street Fighter 5        | Kolin                    |
+| Tekken 7                | Julia, Bryan, Armor King |
 | Tough Love Arena        | Beef                     |
 
 #### Playstyle
@@ -396,20 +396,20 @@
 
 | Game                    | Character(s)                |
 | ----------------------- | --------------------------- |
-| Street Fighter 4        | Dhalsim                     |
-| Street Fighter 5        | Cammy, Cody                 |
+| BBTAG                   | Merkava+1                   |
 | BlazBlue                | Hakumen, Arakune            |
 | GG +R                   | Sol                         |
 | GG Strive               | Sol                         |
-| Tekken 7                | Paul, Kazuya                |
-| Soul Calibur            | Nightmare, Lizard with Axes |
+| Granblue Fantasy Versus | Vaseraga                    |
+| Melty Blood TL          | Arcuid                      |
+| P4A                     | Naoto                       |
 | Smash Melee             | Fox                         |
 | Smash Ultimate          | Wolf                        |
-| Melty Blood TL          | Arcuid                      |
-| BBTAG                   | Merkava+1                   |
-| Granblue Fantasy Versus | Vaseraga                    |
+| Soul Calibur            | Nightmare, Lizard with Axes |
+| Street Fighter 4        | Dhalsim                     |
+| Street Fighter 5        | Cammy, Cody                 |
+| Tekken 7                | Paul, Kazuya                |
 | UNIST                   | Merkava                     |
-| P4A                     | Naoto                       |
 
 #### Playstyle
 
@@ -432,16 +432,16 @@
 
 | Game                    | Character(s)          |
 | ----------------------- | --------------------- |
-| Street Fighter 5        | R.Mika                |
-| GG Strive               | Giovanna              |
-| Tekken 7                | Josie                 |
-| Smash Ultimate          | Little Mac            |
-| Melty Blood TL          | Ciel                  |
 | BBTAG                   | Ruby/Yang             |
 | Dragonball FighterZ     | Cell/Trunks/SS Vegita |
+| GG Strive               | Giovanna              |
 | Granblue Fantasy Versus | Ladiva                |
+| Melty Blood TL          | Ciel                  |
 | Mortal Kombat 11        | Erron Black           |
 | Nicktoons All Stars     | April O'Neil          |
+| Smash Ultimate          | Little Mac            |
+| Street Fighter 5        | R.Mika                |
+| Tekken 7                | Josie                 |
 
 #### Playstyle
 
@@ -479,18 +479,18 @@
 
 | Game                | Character(s)          |
 | ------------------- | --------------------- |
-| Street Fighter 4    | Hugo, Poison          |
-| Street Fighter 5    | Poison, Abigail       |
+| Dragonball FighterZ | A17/Super Broly/Roshi |
 | GG +R               | A.B.A.                |
 | GG Strive           | Zato-1, Goldlewis     |
-| Tekken 7            | Anna                  |
-| Smash Ultimate      | Wario                 |
-| Dragonball FighterZ | A17/Super Broly/Roshi |
-| Skullgirls          | Valentine             |
-| UNIST               | Gordeau               |
-| P4A                 | Elizabeth, Kanji      |
 | Mortal Kombat X     | Mileena               |
 | Nicktoons All Stars | Lucy Loud             |
+| P4A                 | Elizabeth, Kanji      |
+| Skullgirls          | Valentine             |
+| Smash Ultimate      | Wario                 |
+| Street Fighter 4    | Hugo, Poison          |
+| Street Fighter 5    | Poison, Abigail       |
+| Tekken 7            | Anna                  |
+| UNIST               | Gordeau               |
 
 #### Playstyle
 
@@ -513,14 +513,14 @@
 
 | Game                | Character(s)          |
 | ------------------- | --------------------- |
-| GG +R               | Testament, Justice    |
-| GG Strive           | Anji                  |
-| Smash Melee         | Luigi                 |
-| Smash Ultimate      | Samus, Sora           |
 | BBTAG               | Kanji/Yu              |
 | Dragonball FighterZ | Frieza/Janemba/Cooler |
-| P4A                 | Kanji                 |
+| GG +R               | Testament, Justice    |
+| GG Strive           | Anji                  |
 | Nicktoons All Stars | Helga                 |
+| P4A                 | Kanji                 |
+| Smash Melee         | Luigi                 |
+| Smash Ultimate      | Samus, Sora           |
 
 #### Playstyle
 
@@ -539,22 +539,22 @@
 
 | Game                    | Character(s)        |
 | ----------------------- | ------------------- |
-| Street Fighter 4        | Dictator            |
-| Street Fighter 5        | Dictator            |
 | BlazBlue                | Tager               |
+| Dead or Alive           | Bayman              |
 | GG +R                   | Anji, Pot           |
 | GG Strive               | May, Pot            |
-| Tekken 7                | Claudio, Fakh, Drag |
-| Soul Calibur            | Nightmare           |
+| Granblue Fantasy Versus | Vaseraga, Metera    |
+| Mortal Kombat 11        | Baraka              |
+| Nicktoons All Stars     | Reptar              |
+| Skullgirls              | Big Band            |
+| Slap City               | Remedy              |
 | Smash Melee             | Luigi               |
 | Smash PM                | Ganon, DK           |
 | Smash Ultimate          | R.O.B.              |
-| Dead or Alive           | Bayman              |
-| Granblue Fantasy Versus | Vaseraga, Metera    |
-| Skullgirls              | Big Band            |
-| Mortal Kombat 11        | Baraka              |
-| Slap City               | Remedy              |
-| Nicktoons All Stars     | Reptar              |
+| Soul Calibur            | Nightmare           |
+| Street Fighter 4        | Dictator            |
+| Street Fighter 5        | Dictator            |
+| Tekken 7                | Claudio, Fakh, Drag |
 
 #### Playstyle
 
@@ -572,14 +572,14 @@
 
 | Game                | Character(s) |
 | ------------------- | ------------ |
-| Street Fighter 5    | Ken, Akuma   |
 | GG Strive           | Chipp        |
-| Tekken 7            | Akuma, Geese |
+| Mortal Kombat 11    | Subzero      |
+| Nicktoons All Stars | Catdog       |
 | Smash Melee         | Marth        |
 | Smash PM            | Lucario      |
 | Smash Ultimate      | Ken          |
-| Mortal Kombat 11    | Subzero      |
-| Nicktoons All Stars | Catdog       |
+| Street Fighter 5    | Ken, Akuma   |
+| Tekken 7            | Akuma, Geese |
 
 #### Playstyle
 
@@ -598,15 +598,15 @@
 
 | Game                    | Character(s)       |
 | ----------------------- | ------------------ |
-| Street Fighter 5        | Kolin              |
 | GG Strive               | Anji, I-No         |
-| Tekken 7                | Kunimitsu, Lili    |
-| Soul Calibur            | Natsu, Taki        |
+| Granblue Fantasy Versus | Lancelot           |
+| Killer Instinct         | Orchid             |
+| Mortal Kombat 11        | Kitana             |
 | Smash PM                | Ness, Kirby, Peach |
 | Smash Ultimate          | Robin              |
-| Granblue Fantasy Versus | Lancelot           |
-| Mortal Kombat 11        | Kitana             |
-| Killer Instinct         | Orchid             |
+| Soul Calibur            | Natsu, Taki        |
+| Street Fighter 5        | Kolin              |
+| Tekken 7                | Kunimitsu, Lili    |
 
 #### Playstyle
 
@@ -622,36 +622,36 @@
 
 | Game                    | Character(s)                                         |
 | ----------------------- | ---------------------------------------------------- |
-| Street Fighter 4        | Rose, Sakura, E-Honda                                |
-| Street Fighter 5        | Rose, Sakura, Karin                                  |
+| BBTAG                   | Blake(any RWBY?), Chie, Heart                        |
 | BlazBlue                | Kokonoe, Noel, Rachel                                |
+| Dead or Alive           | Eliot, Kasumi, Hitomi, Kula                          |
+| Dragonball FighterZ     | Trunks, A21, A18, GT Goku, Krillin                   |
 | GG +R                   | May, Dizzy, Ky                                       |
-| GG Xrd                  | May, Dizzy, Ky, Elphelt                              |
 | GG Strive               | May, Ky, Jacko(?)                                    |
-| Tekken 7                | Alisa, Lili, Chloe(?), Panda                         |
-| Soul Calibur            | Cassandra, Talim, Tira                               |
+| GG Xrd                  | May, Dizzy, Ky, Elphelt                              |
+| Granblue Fantasy Versus | Belial, Ferry, Djeeta, Metera, Vira                  |
+| Injustice               | Zatana, Hawkgirl, Harley Quinn                       |
+| Killer Instinct         | Jago, Hisako                                         |
+| Marvel vs. Capcom 3     | Vergil, Dante, Ookami, Phoenix, Spiderman, Wolverine |
+| Melty Blood MBAACC      | Hime, Akiha, Miyako, Satsuki, Neco-arc               |
+| Melty Blood TL          | Warc, Akiha, Mario                                   |
+| Mortal Kombat 11        | Sindel, Sonya                                        |
+| Mortal Kombat X         | Kitana, Mileena, Johnny Cage(?)                      |
+| Nicktoons All Stars     | Aang, Korra, Spongebob                               |
+| P4A                     | Chie, Ken, Rise                                      |
+| Samurai Showdown 7      | Nakoruru, Galford, Rimururu, Hibiki                  |
+| Skullgirls              | Filia, Squiggly, Peacock                             |
+| Slap City               | Ittle Dew, Princess Remedy                           |
 | Smash Melee             | Pikachu, Peach                                       |
 | Smash PM                | Pikachu, Peach                                       |
 | Smash Ultimate          | Kirby, Ness, Robin, Pikachu, Yoshi                   |
-| Samurai Showdown 7      | Nakoruru, Galford, Rimururu, Hibiki                  |
-| Melty Blood MBAACC      | Hime, Akiha, Miyako, Satsuki, Neco-arc               |
-| Melty Blood TL          | Warc, Akiha, Mario                                   |
-| BBTAG                   | Blake(any RWBY?), Chie, Heart                        |
-| Dead or Alive           | Eliot, Kasumi, Hitomi, Kula                          |
-| Dragonball FighterZ     | Trunks, A21, A18, GT Goku, Krillin                   |
-| Granblue Fantasy Versus | Belial, Ferry, Djeeta, Metera, Vira                  |
-| Marvel vs. Capcom 3     | Vergil, Dante, Ookami, Phoenix, Spiderman, Wolverine |
-| Skullgirls              | Filia, Squiggly, Peacock                             |
-| UNIST                   | Phonon, Yuzu, Chaos                                  |
-| P4A                     | Chie, Ken, Rise                                      |
-| Injustice               | Zatana, Hawkgirl, Harley Quinn                       |
-| Mortal Kombat X         | Kitana, Mileena, Johnny Cage(?)                      |
-| Mortal Kombat 11        | Sindel, Sonya                                        |
-| Killer Instinct         | Jago, Hisako                                         |
+| Soul Calibur            | Cassandra, Talim, Tira                               |
+| Street Fighter 4        | Rose, Sakura, E-Honda                                |
+| Street Fighter 5        | Rose, Sakura, Karin                                  |
+| Tekken 7                | Alisa, Lili, Chloe(?), Panda                         |
 | Tough Love Arena        | Noodle, Onion                                        |
-| Slap City               | Ittle Dew, Princess Remedy                           |
-| Nicktoons All Stars     | Aang, Korra, Spongebob                               |
 | Touhou 12.3             | Cirno, Reimu, Marisa                                 |
+| UNIST                   | Phonon, Yuzu, Chaos                                  |
 
 #### Playstyle
 
@@ -665,29 +665,29 @@
 
 | Game                    | Character(s)           |
 | ----------------------- | ---------------------- |
-| Street Fighter 4        | Ken                    |
-| Street Fighter 5        | Ken                    |
+| BBTAG                   | Yu & Hyde              |
 | BlazBlue                | Celica                 |
+| Dead or Alive           | Ayane                  |
+| Dragonball FighterZ     | Krillin, Tien, Roshi   |
 | GG +R                   | Chipp                  |
-| GG Xrd                  | Ram                    |
 | GG Strive               | Chipp, Millia          |
-| Tekken 7                | Noctis                 |
-| Soul Calibur            | Setsuka                |
+| GG Xrd                  | Ram                    |
+| Granblue Fantasy Versus | Beelzebub              |
+| Injustice               | Zatanna                |
+| Killer Instinct         | Raam                   |
+| Marvel vs. Capcom 3     | Chris, Wesker, Nemesis |
+| Melty Blood MBAACC      | F Nanaya               |
+| Melty Blood TL          | Dead Apostle Noel      |
+| Mortal Kombat 11        | Johnny                 |
+| Mortal Kombat X         | Jason Vorhees          |
+| P4A                     | Sho (no sona)          |
+| Samurai Showdown 7      | Nakoruru               |
+| Skullgirls              | Fukua                  |
 | Smash Melee             | Falco, Gannondorf      |
 | Smash PM                | Falco                  |
 | Smash Ultimate          | King Krool             |
-| Samurai Showdown 7      | Nakoruru               |
-| Melty Blood MBAACC      | F Nanaya               |
-| Melty Blood TL          | Dead Apostle Noel      |
-| BBTAG                   | Yu & Hyde              |
-| Dead or Alive           | Ayane                  |
-| Dragonball FighterZ     | Krillin, Tien, Roshi   |
-| Granblue Fantasy Versus | Beelzebub              |
-| Marvel vs. Capcom 3     | Chris, Wesker, Nemesis |
-| Skullgirls              | Fukua                  |
+| Soul Calibur            | Setsuka                |
+| Street Fighter 4        | Ken                    |
+| Street Fighter 5        | Ken                    |
+| Tekken 7                | Noctis                 |
 | UNIST                   | Seth, Hyde             |
-| P4A                     | Sho (no sona)          |
-| Injustice               | Zatanna                |
-| Mortal Kombat X         | Jason Vorhees          |
-| Mortal Kombat 11        | Johnny                 |
-| Killer Instinct         | Raam                   |
