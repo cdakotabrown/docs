@@ -171,9 +171,9 @@ Mostly aesthetic ideas rn
 | Smash PM                   | Zelda, Peach, Squirtle, Luigi               |
 | Smash Ultimate             | Zelda, Terry                                |
 | Soulcalibur                | Setsuka, Talim                              |
-| Street Fighter 2           | Ken, Chun Li                                |
+| Street Fighter 2           | Ken, Chun-Li                                |
 | Street Fighter 3           | Ken, Remy                                   |
-| Street Fighter 4           | Poison, C Viper                             |
+| Street Fighter 4           | Poison, C.Viper                             |
 | Street Fighter 5           | Poison                                      |
 | Street Fighter Alpha 2     | Sakura, Sodom                               |
 | Tekken 7                   | Lili, Paul, Lidia, Julia                    |
