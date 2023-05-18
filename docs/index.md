@@ -137,51 +137,51 @@
 
 Mostly aesthetic ideas rn
 
-| Game                       | Character(s)                                | Playstyle | Aesthetic |
-| -------------------------- | ------------------------------------------- | --------- | --------- |
-| BBTAG                      | Blake/Yuzu/Noel/Weiss                       |           |           |
-| BlazBlue                   | Noel, Izayoi, Platinum, Mai                 |           |           |
-| Dead or Alive              | Helena, Kasumi                              |           |           |
-| Dengeki Bunko              | Miyuki, Shana                               |           |           |
-| DNF Duel                   | Inquisitor, Striker                         |           |           |
-| Dragonball FighterZ        | Trunks/Piccolo/Vegeta/Android 18/Android 21 |           |           |
-| GG +R                      | Jam, Bridget, Dizzy                         |           |           |
-| GG Strive                  | Bridget, Sol, Baiken, Millia                |           |           |
-| GG Xrd                     | Dizzy, Ky, Jam                              |           |           |
-| Granblue Fantasy Versus    | Vira, Ferry                                 |           |           |
-| Injustice                  | Green Lantern, Zatanna                      |           |           |
-| Injustice 2                | Green Lantern, Dr. Fate, Hellboy            |           |           |
-| Jojo: HftF                 | Dio, Polnareff                              |           |           |
-| Killer Instinct            | Aria                                        |           |           |
-| King of Fighters 15        | Whip/Terry/Leona                            |           |           |
-| Marvel vs. Capcom 2        | Storm/Mega Man/Roll/Iron Man                |           |           |
-| Marvel vs. Capcom 3        | Zero/Vergil/Doom/She Hulk/Magneto           |           |           |
-| Marvel vs. Capcom Infinite | Zero/Captain Marvel/X/Ghost Rider           |           |           |
-| Melty Blood MBAACC         | Akiha, Riesbyfe, Sion                       |           |           |
-| Melty Blood TL             | Akiha, Noel, Aoko                           |           |           |
-| Mortal Kombat 11           | Jacqui, Jax                                 |           |           |
-| Mortal Kombat X            | Sonya, Jacqui                               |           |           |
-| Nicktoons All Stars        | Korra, Jenny                                |           |           |
-| P4A                        | Yukari, Yukiko, Labrys                      |           |           |
-| Sailor Moon S              | Jupiter, Venus, Mars                        |           |           |
-| Samurai Showdown 7         | Charlotte, Baiken, Rimururu                 |           |           |
-| Skullgirls                 | Ms Fortune/Robo Fortune                     |           |           |
-| Slap City                  | Frallan                                     |           |           |
-| Smash Melee                | Peach, Luigi                                |           |           |
-| Smash PM                   | Zelda, Peach, Squirtle, Luigi               |           |           |
-| Smash Ultimate             | Zelda, Terry                                |           |           |
-| Soulcalibur                | Setsuka, Talim                              |           |           |
-| Street Fighter 2           | Ken, Chun Li                                |           |           |
-| Street Fighter 3           | Ken, Remy                                   |           |           |
-| Street Fighter 4           | Poison, C Viper                             |           |           |
-| Street Fighter 5           | Poison                                      |           |           |
-| Street Fighter Alpha 2     | Sakura, Sodom                               |           |           |
-| Tekken 7                   | Lili, Paul, Lidia, Julia                    |           |           |
-| Tough Love Arena           | Garlic, Onion                               |           |           |
-| Touhou 12.3                | Tenshi, Marisa                              |           |           |
-| Umineko Musou              | Kanon/Ange/Beato/Erika                      |           |           |
-| Under Night                | Phonon, Eltnum, Yuzu, Wagner                |           |           |
-| Vampire Savior             | Hsien-Ko, BB Hood                           |           |           |
+| Game                       | Character(s)                                |
+| -------------------------- | ------------------------------------------- |
+| BBTAG                      | Blake/Yuzu/Noel/Weiss                       |
+| BlazBlue                   | Noel, Izayoi, Platinum, Mai                 |
+| Dead or Alive              | Helena, Kasumi                              |
+| Dengeki Bunko              | Miyuki, Shana                               |
+| DNF Duel                   | Inquisitor, Striker                         |
+| Dragonball FighterZ        | Trunks/Piccolo/Vegeta/Android 18/Android 21 |
+| GG +R                      | Jam, Bridget, Dizzy                         |
+| GG Strive                  | Bridget, Sol, Baiken, Millia                |
+| GG Xrd                     | Dizzy, Ky, Jam                              |
+| Granblue Fantasy Versus    | Vira, Ferry                                 |
+| Injustice                  | Green Lantern, Zatanna                      |
+| Injustice 2                | Green Lantern, Dr. Fate, Hellboy            |
+| Jojo: HftF                 | Dio, Polnareff                              |
+| Killer Instinct            | Aria                                        |
+| King of Fighters 15        | Whip/Terry/Leona                            |
+| Marvel vs. Capcom 2        | Storm/Mega Man/Roll/Iron Man                |
+| Marvel vs. Capcom 3        | Zero/Vergil/Doom/She Hulk/Magneto           |
+| Marvel vs. Capcom Infinite | Zero/Captain Marvel/X/Ghost Rider           |
+| Melty Blood MBAACC         | Akiha, Riesbyfe, Sion                       |
+| Melty Blood TL             | Akiha, Noel, Aoko                           |
+| Mortal Kombat 11           | Jacqui, Jax                                 |
+| Mortal Kombat X            | Sonya, Jacqui                               |
+| Nicktoons All Stars        | Korra, Jenny                                |
+| P4A                        | Yukari, Yukiko, Labrys                      |
+| Sailor Moon S              | Jupiter, Venus, Mars                        |
+| Samurai Showdown 7         | Charlotte, Baiken, Rimururu                 |
+| Skullgirls                 | Ms Fortune/Robo Fortune                     |
+| Slap City                  | Frallan                                     |
+| Smash Melee                | Peach, Luigi                                |
+| Smash PM                   | Zelda, Peach, Squirtle, Luigi               |
+| Smash Ultimate             | Zelda, Terry                                |
+| Soulcalibur                | Setsuka, Talim                              |
+| Street Fighter 2           | Ken, Chun Li                                |
+| Street Fighter 3           | Ken, Remy                                   |
+| Street Fighter 4           | Poison, C Viper                             |
+| Street Fighter 5           | Poison                                      |
+| Street Fighter Alpha 2     | Sakura, Sodom                               |
+| Tekken 7                   | Lili, Paul, Lidia, Julia                    |
+| Tough Love Arena           | Garlic, Onion                               |
+| Touhou 12.3                | Tenshi, Marisa                              |
+| Umineko Musou              | Kanon/Ange/Beato/Erika                      |
+| Under Night                | Phonon, Eltnum, Yuzu, Wagner                |
+| Vampire Savior             | Hsien-Ko, BB Hood                           |
 
 #### Playstyle
 
