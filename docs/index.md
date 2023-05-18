@@ -6,66 +6,69 @@
             -   [Playstyle](#playstyle)
             -   [Aesthetic](#aesthetic)
     -   [Players](#players)
-        -   [Blondes](#blondes)
+        -   [Booba](#booba)
             -   [Playstyle](#playstyle-1)
             -   [Aesthetic](#aesthetic-1)
-        -   [Blonde Boys](#blonde-boys)
+        -   [Blondes](#blondes)
             -   [Playstyle](#playstyle-2)
             -   [Aesthetic](#aesthetic-2)
-        -   [Blonde Girls](#blonde-girls)
+        -   [Blonde Boys](#blonde-boys)
             -   [Playstyle](#playstyle-3)
             -   [Aesthetic](#aesthetic-3)
-        -   [Lumia](#lumia)
+        -   [Blonde Girls](#blonde-girls)
             -   [Playstyle](#playstyle-4)
             -   [Aesthetic](#aesthetic-4)
-        -   [ClaireLynnD](#clairelynnd)
+        -   [Lumia](#lumia)
             -   [Playstyle](#playstyle-5)
             -   [Aesthetic](#aesthetic-5)
-        -   [Doc Brown](#doc-brown)
+        -   [ClaireLynnD](#clairelynnd)
             -   [Playstyle](#playstyle-6)
             -   [Aesthetic](#aesthetic-6)
-        -   [Phantom Bear](#phantom-bear)
+        -   [Doc Brown](#doc-brown)
             -   [Playstyle](#playstyle-7)
             -   [Aesthetic](#aesthetic-7)
-        -   [Mikayy](#mikayy)
+        -   [Phantom Bear](#phantom-bear)
             -   [Playstyle](#playstyle-8)
             -   [Aesthetic](#aesthetic-8)
-        -   [Multistorm](#multistorm)
+        -   [Mikayy](#mikayy)
             -   [Playstyle](#playstyle-9)
             -   [Aesthetic](#aesthetic-9)
-        -   [OceanDad](#oceandad)
+        -   [Multistorm](#multistorm)
             -   [Playstyle](#playstyle-10)
             -   [Aesthetic](#aesthetic-10)
-        -   [Driftwood](#driftwood)
+        -   [OceanDad](#oceandad)
             -   [Playstyle](#playstyle-11)
             -   [Aesthetic](#aesthetic-11)
-        -   [Randy Newman](#randy-newman)
+        -   [Driftwood](#driftwood)
             -   [Playstyle](#playstyle-12)
             -   [Aesthetic](#aesthetic-12)
-        -   [Jake Denne](#jake-denne)
+        -   [Randy Newman](#randy-newman)
             -   [Playstyle](#playstyle-13)
             -   [Aesthetic](#aesthetic-13)
-        -   [Yachttors](#yachttors)
+        -   [Jake Denne](#jake-denne)
             -   [Playstyle](#playstyle-14)
             -   [Aesthetic](#aesthetic-14)
-        -   [Culex](#culex)
+        -   [Yachttors](#yachttors)
             -   [Playstyle](#playstyle-15)
             -   [Aesthetic](#aesthetic-15)
-        -   [Chef](#chef)
+        -   [Culex](#culex)
             -   [Playstyle](#playstyle-16)
             -   [Aesthetic](#aesthetic-16)
-        -   [Mexiken](#mexiken)
+        -   [Chef](#chef)
             -   [Playstyle](#playstyle-17)
             -   [Aesthetic](#aesthetic-17)
-        -   [Yujin](#yujin)
+        -   [Mexiken](#mexiken)
             -   [Playstyle](#playstyle-18)
             -   [Aesthetic](#aesthetic-18)
-        -   [Shelby](#shelby)
+        -   [Yujin](#yujin)
             -   [Playstyle](#playstyle-19)
             -   [Aesthetic](#aesthetic-19)
-        -   [Shaly](#shaly)
+        -   [Shelby](#shelby)
             -   [Playstyle](#playstyle-20)
             -   [Aesthetic](#aesthetic-20)
+        -   [Shaly](#shaly)
+            -   [Playstyle](#playstyle-21)
+            -   [Aesthetic](#aesthetic-21)
 
 ## Template
 
@@ -126,6 +129,52 @@
 -
 
 ## Players
+
+### Booba
+
+| Game                    | Character(s)                      |
+| ----------------------- | --------------------------------- |
+| BBTAG                   | Blake, Yumi, Nine, Makoto         |
+| BlazBlue                | Bullet, Nine, Mai, Makoto, Litchi |
+| Dead or Alive           | Honoka, Nyotengu                  |
+| Dengeki Bunko           | Selvaria(Iriya)                   |
+| DNF Duel                | Striker                           |
+| Dragonball FighterZ     | Android 21/Lab Coat/Android 18    |
+| GG +R                   | Jam                               |
+| GG Strive               | Baiken, Jacko, Milia              |
+| GG Xrd                  | Baiken, Elphelt, Jam              |
+| Granblue Fantasy Versus | Ferry, Metera, Narmaya            |
+| Jojo: HftF              | Midler                            |
+| Killer Instinct         | Orchid                            |
+| King of Fighters 15     | Leona/Mai/B.Jenet                 |
+| Melty Blood MBAACC      | F.Hime                            |
+| Melty Blood TL          | Mash, P.Ciel                      |
+| Mortal Kombat 11        | Mileena, Sindel                   |
+| Mortal Kombat X         | Mileena, Tanya                    |
+| P4A                     | Rise                              |
+| Samurai Showdown 7      | Iroha                             |
+| Skullgirls              | Valentine/Eliza/Cerebella         |
+| Smash Melee             | Peach                             |
+| Smash PM                | ZSS                               |
+| Smash Ultimate          | Aegis, ZSS, Bayo                  |
+| Soulcalibur             | Ivy, Taki                         |
+| Street Fighter 2        | Chun-li, Cammy                    |
+| Street Fighter 3        | Chun-li                           |
+| Street Fighter 4        | Chun-li, Poison                   |
+| Street Fighter 5        | Poison, R.Mika, Laura, Juri       |
+| Street Fighter Alpha 2  | Chun-li                           |
+| Tekken 7                | Katarina, Josie, Anna, Eliza      |
+| Umineko Musou           | Shannon/Beato                     |
+| Under Night             | Hilda, Yuzu                       |
+| Vampire Savior          | Morrigan                          |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
 
 ### Blondes
 
@@ -319,7 +368,7 @@
 | Street Fighter 5        | Poison, Guile, Birdie  |
 | Tekken 7                | Miguel, Paul           |
 | Tough Love Arena        | Noodle                 |
-| Touhou 12.3             | Komachi, Utsuho        |
+| Touhou 12.3             | Iku, Komachi, Utsuho   |
 | UNIST                   | Akatsuki, Wagner, Yuzu |
 
 #### Playstyle
