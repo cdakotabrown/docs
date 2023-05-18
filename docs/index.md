@@ -6,69 +6,72 @@
             -   [Playstyle](#playstyle)
             -   [Aesthetic](#aesthetic)
     -   [Players](#players)
-        -   [Booba](#booba)
+        -   [Megan](#megan)
             -   [Playstyle](#playstyle-1)
             -   [Aesthetic](#aesthetic-1)
-        -   [Blondes](#blondes)
+        -   [Booba](#booba)
             -   [Playstyle](#playstyle-2)
             -   [Aesthetic](#aesthetic-2)
-        -   [Blonde Boys](#blonde-boys)
+        -   [Blondes](#blondes)
             -   [Playstyle](#playstyle-3)
             -   [Aesthetic](#aesthetic-3)
-        -   [Blonde Girls](#blonde-girls)
+        -   [Blonde Boys](#blonde-boys)
             -   [Playstyle](#playstyle-4)
             -   [Aesthetic](#aesthetic-4)
-        -   [Lumia](#lumia)
+        -   [Blonde Girls](#blonde-girls)
             -   [Playstyle](#playstyle-5)
             -   [Aesthetic](#aesthetic-5)
-        -   [ClaireLynnD](#clairelynnd)
+        -   [Lumia](#lumia)
             -   [Playstyle](#playstyle-6)
             -   [Aesthetic](#aesthetic-6)
-        -   [Doc Brown](#doc-brown)
+        -   [ClaireLynnD](#clairelynnd)
             -   [Playstyle](#playstyle-7)
             -   [Aesthetic](#aesthetic-7)
-        -   [Phantom Bear](#phantom-bear)
+        -   [Doc Brown](#doc-brown)
             -   [Playstyle](#playstyle-8)
             -   [Aesthetic](#aesthetic-8)
-        -   [Mikayy](#mikayy)
+        -   [Phantom Bear](#phantom-bear)
             -   [Playstyle](#playstyle-9)
             -   [Aesthetic](#aesthetic-9)
-        -   [Multistorm](#multistorm)
+        -   [Mikayy](#mikayy)
             -   [Playstyle](#playstyle-10)
             -   [Aesthetic](#aesthetic-10)
-        -   [OceanDad](#oceandad)
+        -   [Multistorm](#multistorm)
             -   [Playstyle](#playstyle-11)
             -   [Aesthetic](#aesthetic-11)
-        -   [Driftwood](#driftwood)
+        -   [OceanDad](#oceandad)
             -   [Playstyle](#playstyle-12)
             -   [Aesthetic](#aesthetic-12)
-        -   [Randy Newman](#randy-newman)
+        -   [Driftwood](#driftwood)
             -   [Playstyle](#playstyle-13)
             -   [Aesthetic](#aesthetic-13)
-        -   [Jake Denne](#jake-denne)
+        -   [Randy Newman](#randy-newman)
             -   [Playstyle](#playstyle-14)
             -   [Aesthetic](#aesthetic-14)
-        -   [Yachttors](#yachttors)
+        -   [Jake Denne](#jake-denne)
             -   [Playstyle](#playstyle-15)
             -   [Aesthetic](#aesthetic-15)
-        -   [Culex](#culex)
+        -   [Yachttors](#yachttors)
             -   [Playstyle](#playstyle-16)
             -   [Aesthetic](#aesthetic-16)
-        -   [Chef](#chef)
+        -   [Culex](#culex)
             -   [Playstyle](#playstyle-17)
             -   [Aesthetic](#aesthetic-17)
-        -   [Mexiken](#mexiken)
+        -   [Chef](#chef)
             -   [Playstyle](#playstyle-18)
             -   [Aesthetic](#aesthetic-18)
-        -   [Yujin](#yujin)
+        -   [Mexiken](#mexiken)
             -   [Playstyle](#playstyle-19)
             -   [Aesthetic](#aesthetic-19)
-        -   [Shelby](#shelby)
+        -   [Yujin](#yujin)
             -   [Playstyle](#playstyle-20)
             -   [Aesthetic](#aesthetic-20)
-        -   [Shaly](#shaly)
+        -   [Shelby](#shelby)
             -   [Playstyle](#playstyle-21)
             -   [Aesthetic](#aesthetic-21)
+        -   [Shaly](#shaly)
+            -   [Playstyle](#playstyle-22)
+            -   [Aesthetic](#aesthetic-22)
 
 ## Template
 
@@ -129,6 +132,62 @@
 -
 
 ## Players
+
+### Megan
+
+| Game                       | Character(s)                                |
+| -------------------------- | ------------------------------------------- |
+| BBTAG                      | Blake/Yuzu/Noel/Weiss                       |
+| BlazBlue                   | Noel, Izayoi, Platinum, Mai                 |
+| Dead or Alive              | Helena, Kasumi                              |
+| Dengeki Bunko              | Miyuki, Shana                               |
+| DNF Duel                   | Inquisitor, Striker                         |
+| Dragonball FighterZ        | Trunks/Piccolo/Vegeta/Android 18/Android 21 |
+| GG +R                      | Jam, Bridget, Dizzy                         |
+| GG Strive                  | Bridget, Sol, Baiken, Millia                |
+| GG Xrd                     | Dizzy, Ky, Jam                              |
+| Granblue Fantasy Versus    | Vira, Ferry                                 |
+| Injustice                  | Green Lantern, Zatanna                      |
+| Injustice 2                | Green Lantern, Dr. Fate, Hellboy            |
+| Jojo: HftF                 | Dio, Polnareff                              |
+| Killer Instinct            | Aria                                        |
+| King of Fighters 15        | Whip/Terry/Leona                            |
+| Marvel vs. Capcom 2        | Storm/Mega Man/Roll/Iron Man                |
+| Marvel vs. Capcom 3        | Zero/Vergil/Doom/She Hulk/Magneto           |
+| Marvel vs. Capcom Infinite | Zero/Captain Marvel/X/Ghost Rider           |
+| Melty Blood MBAACC         | Akiha, Riesbyfe, Sion                       |
+| Melty Blood TL             | Akiha, Noel, Aoko                           |
+| Mortal Kombat 11           | Jacqui, Jax                                 |
+| Mortal Kombat X            | Sonya, Jacqui                               |
+| Nicktoons All Stars        | Korra, Jenny                                |
+| P4A                        | Yukari, Yukiko, Labrys                      |
+| Sailor Moon S              | Jupiter, Venus, Mars                        |
+| Samurai Showdown 7         | Charlotte, Baiken, Rimururu                 |
+| Skullgirls                 | Ms Fortune/Robo Fortune                     |
+| Slap City                  | Frallan                                     |
+| Smash Melee                | Peach, Luigi                                |
+| Smash PM                   | Zelda, Peach, Squirtle, Luigi               |
+| Smash Ultimate             | Zelda, Terry                                |
+| Soulcalibur                | Setsuka, Talim                              |
+| Street Fighter 2           | Ken, Chun Li                                |
+| Street Fighter 3           | Ken, Remy                                   |
+| Street Fighter 4           | Poison, C Viper                             |
+| Street Fighter 5           | Poison                                      |
+| Street Fighter Alpha 2     | Sakura, Sodom                               |
+| Tekken 7                   | Lili, Paul, Lidia, Julia                    |
+| Tough Love Arena           | Garlic, Onion                               |
+| Touhou 12.3                | Tenshi, Marisa                              |
+| Umineko Musou              | Kanon/Ange/Beato/Erika                      |
+| Under Night                | Phonon, Eltnum, Yuzu, Wagner                |
+| Vampire Savior             | Hsien-Ko, BB Hood                           |
+
+#### Playstyle
+
+-
+
+#### Aesthetic
+
+-
 
 ### Booba
 
