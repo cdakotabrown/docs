@@ -6,6 +6,8 @@ Core: Immediately going to settings in a game
 
 The first thing I do when I boot any game on any platform is go to the settings menu and configure every part. I've been told this is weird but still get upset over how these menus might behave.
 
+<https://gameuidatabase.com/index.php>
+
 ## Meat
 
 ### Good Settings Menus
@@ -32,12 +34,30 @@ Imagine there was an accessibility option in Last of Us that said something like
 
 Imagine in Nier Automata that there was an "auto target during top down shooter parts" button but you haven't completed the game to the point where you know about that new gameplay gimmick. The start of the game is a top down shooter but there's no targetting, so knowing this would spoil the gameplay twist you're later given.
 
-Imagine
+Imagine Inscryption
 
 ### Narrative spoilers in settings menus
 
 ### UX of settings menus
 
 If I have to watch an animation each time something changes I start your game upset. If i have to press a button repeatedly to up a slider my day is ruined.
+
+### AUDIO
+
+FUCK AUDIO SETTINGS
+
+### MENUS
+
+FUCK ANY MENU MORE COMPLEX THAN THE SUPER METROID INVENTORY SCREEN. Breath of the Wild example
+
+### Configuring the game before you play it
+
+#### Mods
+
+Stuff like Skyrim fixes or coomer shit
+
+#### Scripts
+
+Stuff like jump throw binds in CS
 
 ## End
