@@ -432,6 +432,24 @@ Mostly aesthetic ideas rn
 | Touhou 12.3             | Iku, Komachi, Utsuho   |
 | UNIST                   | Akatsuki, Wagner, Yuzu |
 
+| Game                    | Character(s) |
+| ----------------------- | ------------ |
+| GG +R                   | Faust        |
+| Skullgirls              | Cerebella    |
+| Smash Melee             | C.Falcon     |
+| Street Fighter 4        | Poison       |
+| Tekken 7                | Miguel       |
+| GG Strive               | Leo          |
+| Granblue Fantasy Versus | Percival     |
+| Street Fighter 5        | Guile        |
+| Melty Blood TL          | Vlov         |
+| Smash Ultimate          | Chrom        |
+| Soul Calibur            | Siegfried    |
+| Mortal Kombat 11        | Baraka       |
+| UNIST                   | Wagner       |
+| P4A                     | Mitsuru      |
+| Samurai Showdown 7      | Hibiki       |
+
 #### Playstyle
 
 -
