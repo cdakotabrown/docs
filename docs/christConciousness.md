@@ -1,8 +1,8 @@
 # Christ Conciousness Analysis
 
-## Tyler
+## Taylor
 
-<img src="https://cdakotabrown.github.io/docs/pictures/culex.png" alt="Tyler" width="200"/>
+<img src="https://cdakotabrown.github.io/docs/pictures/culex.png" alt="Taylor" width="200"/>
 
 9w8. social, independent, and routine in behavior. Generally more assertive and adventurous than other 9s because of the 8 wing (type 8s are assertive, headstrong, confident, less requiring external validation.)
 9w8s tend to:

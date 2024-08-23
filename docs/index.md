@@ -77,51 +77,52 @@
 
 ### Name
 
-| Game                       | Character(s) |
-| -------------------------- | ------------ |
-| BBTAG                      |              |
-| BlazBlue                   |              |
-| Dead or Alive              |              |
-| Dengeki Bunko              |              |
-| DNF Duel                   |              |
-| Dragonball FighterZ        |              |
-| GG +R                      |              |
-| GG Strive                  |              |
-| GG Xrd                     |              |
-| Granblue Fantasy Versus    |              |
-| Injustice                  |              |
-| Injustice 2                |              |
-| Jojo: HftF                 |              |
-| Killer Instinct            |              |
-| King of Fighters 15        |              |
-| Marvel vs. Capcom 2        |              |
-| Marvel vs. Capcom 3        |              |
-| Marvel vs. Capcom Infinite |              |
-| Melty Blood MBAACC         |              |
-| Melty Blood TL             |              |
-| Mortal Kombat 11           |              |
-| Mortal Kombat X            |              |
-| Nicktoons All Stars        |              |
-| P4A                        |              |
-| Sailor Moon S              |              |
-| Samurai Showdown 7         |              |
-| Skullgirls                 |              |
-| Slap City                  |              |
-| Smash Melee                |              |
-| Smash PM                   |              |
-| Smash Ultimate             |              |
-| Soulcalibur                |              |
-| Street Fighter 2           |              |
-| Street Fighter 3           |              |
-| Street Fighter 4           |              |
-| Street Fighter 5           |              |
-| Street Fighter Alpha 2     |              |
-| Tekken 7                   |              |
-| Tough Love Arena           |              |
-| Touhou 12.3                |              |
-| Umineko Musou              |              |
-| Under Night                |              |
-| Vampire Savior             |              |
+| Game                       | Character(s)                 |
+| -------------------------- | ---------------------------- |
+| BBTAG                      |                              |
+| BlazBlue                   |                              |
+| Dead or Alive              |                              |
+| Dengeki Bunko              |                              |
+| DNF Duel                   |                              |
+| Dragonball FighterZ        | UI Goku, Bardock, Teen Gohan |
+| GG +R                      | POT                          |
+| GG Strive                  | TST, INO                     |
+| GG Xrd                     | INO, SOL                     |
+| Granblue Fantasy Versus    |                              |
+| Injustice                  |                              |
+| Injustice 2                |                              |
+| Jojo: HftF                 |                              |
+| Killer Instinct            |                              |
+| King of Fighters 15        | Andy, Kim, Gato              |
+| Marvel vs. Capcom 2        |                              |
+| Marvel vs. Capcom 3        |                              |
+| Marvel vs. Capcom Infinite |                              |
+| Melty Blood MBAACC         |                              |
+| Melty Blood TL             |                              |
+| Mortal Kombat 11           |                              |
+| Mortal Kombat X            |                              |
+| Nicktoons All Stars        |                              |
+| P4A                        |                              |
+| Sailor Moon S              |                              |
+| Samurai Showdown 7         |                              |
+| Skullgirls                 |                              |
+| Slap City                  |                              |
+| Smash Melee                | Shiek, Mario, Fox            |
+| Smash PM                   |                              |
+| Smash Ultimate             |                              |
+| Soulcalibur                |                              |
+| Street Fighter 2           |                              |
+| Street Fighter 3           |                              |
+| Street Fighter 4           |                              |
+| Street Fighter 5           | Cammy, Chunli, Necali        |
+| Street Fighter Alpha 2     |                              |
+| Tekken 7                   | Shaheen, Lidia               |
+| Tekken 8                   | Leo, Victor                  |
+| Tough Love Arena           |                              |
+| Touhou 12.3                |                              |
+| Umineko Musou              |                              |
+| Under Night                |                              |
+| Vampire Savior             |                              |
 
 #### Playstyle
 
@@ -345,7 +346,7 @@ Mostly aesthetic ideas rn
 | Slap City               | Ittle Dew             | Nicktoons All Stars        | Helga                          |
 | DNF Duel                | Launcher              | Sailor Moon S              | Venus                          |
 | Dengeki Bunko           | Kirino (Leafa assist) | Vampire Savior             | Bulleta                        |
-| Touhou 12.3             | Marisa                |
+| Touhou 12.3             | Marisa                | Street Fighter 3           | Elena                          |
 
 #### Playstyle
 
@@ -406,31 +407,33 @@ Mostly aesthetic ideas rn
 
 ### Doc Brown
 
-| Game                    | Character(s)           |
-| ----------------------- | ---------------------- |
-| BBTAG                   | Yang/Akatsuki          |
-| BlazBlue                | Jin, Es, Tager         |
-| Dead or Alive           | Tina                   |
-| GG +R                   | Faust                  |
-| GG Strive               | Leo, Faust             |
-| Granblue Fantasy Versus | Percival               |
-| Marvel vs. Capcom 3     | Deadpool/Dante/Vergil  |
-| Melty Blood MBAACC      | F.Hime                 |
-| Melty Blood TL          | Noel, Mash, Big Shoe   |
-| Mortal Kombat 11        | Baraka                 |
-| Nicktoons All Stars     | Spongebob              |
-| P4A                     | Teddy, Mitsuru         |
-| Samurai Showdown 7      | Hibiki, Tamtam         |
-| Skullgirls              | Cerebella/Fillia       |
-| Smash Melee             | C.Falcon               |
-| Smash Ultimate          | Chrom                  |
-| Soul Calibur            | Siegfried              |
-| Street Fighter 4        | Poison, Zangief        |
-| Street Fighter 5        | Poison, Guile, Birdie  |
-| Tekken 7                | Miguel, Paul           |
-| Tough Love Arena        | Noodle                 |
-| Touhou 12.3             | Iku, Komachi, Utsuho   |
-| UNIST                   | Akatsuki, Wagner, Yuzu |
+| Game                    | Character(s)          |
+| ----------------------- | --------------------- |
+| BBTAG                   | Yang/Akatsuki         |
+| BlazBlue                | Jin, Kagura           |
+| Dead or Alive           | Tina                  |
+| GG +R                   | Faust                 |
+| GG Strive               | Leo, Faust            |
+| Granblue Fantasy Versus | Percival              |
+| Marvel vs. Capcom 3     | Deadpool/Dante/Vergil |
+| Melty Blood MBAACC      | Sword Maid(?)         |
+| Melty Blood TL          | Big Shoe, Mash        |
+| Mortal Kombat 11        | Baraka, Scorpion      |
+| Nicktoons All Stars     | Spongebob             |
+| P4A                     | Teddy, Mitsuru        |
+| Samurai Showdown 7      | Hibiki, Tamtam        |
+| Skullgirls              | Cerebella/Fillia      |
+| Smash Melee             | C.Falcon              |
+| Smash Ultimate          | Chrom                 |
+| Soul Calibur            | Siegfried             |
+| Street Fighter 4        | Poison, Zangief       |
+| Street Fighter 5        | Poison, Guile, Birdie |
+| Tekken 7                | Miguel, Paul          |
+| Tough Love Arena        | Noodle                |
+| Touhou 12.3             | Iku, Komachi, Utsuho  |
+| UNIST                   | Gord                  |
+
+Comm thing:
 
 | Game                    | Character(s) |
 | ----------------------- | ------------ |
@@ -446,8 +449,8 @@ Mostly aesthetic ideas rn
 | Smash Ultimate          | Chrom        |
 | Soul Calibur            | Siegfried    |
 | Mortal Kombat 11        | Baraka       |
-| UNIST                   | Wagner       |
-| P4A                     | Mitsuru      |
+| UNIST                   | Gord         |
+| P4A                     | Teddy        |
 | Samurai Showdown 7      | Hibiki       |
 
 #### Playstyle
@@ -864,9 +867,9 @@ Mostly aesthetic ideas rn
 | BlazBlue                | Celica                 |
 | Dead or Alive           | Ayane                  |
 | Dragonball FighterZ     | Krillin, Tien, Roshi   |
-| GG +R                   | Chipp                  |
+| GG +R                   | Dizzy                  |
 | GG Strive               | Chipp, Millia          |
-| GG Xrd                  | Ram                    |
+| GG Xrd                  | Dizzy, Ram             |
 | Granblue Fantasy Versus | Beelzebub              |
 | Injustice               | Zatanna                |
 | Killer Instinct         | Raam                   |
@@ -884,6 +887,7 @@ Mostly aesthetic ideas rn
 | Soul Calibur            | Setsuka                |
 | Street Fighter 4        | Ken                    |
 | Street Fighter 5        | Ken                    |
+| Street Fighter 6        | Blanka, Juri           |
 | Tekken 7                | Noctis                 |
 | UNIST                   | Seth, Hyde             |
 
