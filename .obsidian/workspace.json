@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Character Pile.md",
+                "file": "docs/characterPages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character Pile"
+              "title": "characterPages"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "e98147133ff82d01",
   "lastOpenFiles": [
+    "docs/characterPages.html",
     "docs/pictures/FGC/BBTag_Yang_Xiao_Long_Portrait.png",
     "docs/pictures/FGC/MVC2_captaincommando_art.png",
     "docs/pictures/FGC/MVC2_sentinel_art.png",
@@ -188,7 +189,7 @@
     "docs/christConciousness.md",
     "docs/index.md",
     "docs/optionsScreens.md",
-    "docs/Character Pile.md",
+    "docs/characterPages.md",
     "docs/pictures/FGC/KOFXV_Meitenkun_Profile.png",
     "docs/pictures/FGC/KOFXV_Gato_Profile.png",
     "docs/pictures/FGC/KOFXV_Ash_Profile.png",
@@ -199,7 +200,6 @@
     "docs/pictures/KOFXV_Gato_Profile.png",
     "docs/qe.md",
     "docs/Character Pile.html",
-    "docs/pictures/baylor.png",
     "Hata4564 Request.md",
     "2025-01-09.md",
     "2024-12-27.md",
