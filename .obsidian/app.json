@@ -1,1 +1,6 @@
-{}
+{
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "readableLineLength": false
+}

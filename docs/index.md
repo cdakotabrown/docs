@@ -1,128 +1,128 @@
 # Fightan lists thing
 
--   [Fightan lists thing](#fightan-lists-thing)
-    -   [Template](#template)
-        -   [Name](#name)
-            -   [Playstyle](#playstyle)
-            -   [Aesthetic](#aesthetic)
-    -   [Players](#players)
-        -   [Megan](#megan)
-            -   [Playstyle](#playstyle-1)
-            -   [Aesthetic](#aesthetic-1)
-        -   [Booba](#booba)
-            -   [Playstyle](#playstyle-2)
-            -   [Aesthetic](#aesthetic-2)
-        -   [Blondes](#blondes)
-            -   [Playstyle](#playstyle-3)
-            -   [Aesthetic](#aesthetic-3)
-        -   [Blonde Boys](#blonde-boys)
-            -   [Playstyle](#playstyle-4)
-            -   [Aesthetic](#aesthetic-4)
-        -   [Blonde Girls](#blonde-girls)
-            -   [Playstyle](#playstyle-5)
-            -   [Aesthetic](#aesthetic-5)
-        -   [Lumia](#lumia)
-            -   [Playstyle](#playstyle-6)
-            -   [Aesthetic](#aesthetic-6)
-        -   [ClaireLynnD](#clairelynnd)
-            -   [Playstyle](#playstyle-7)
-            -   [Aesthetic](#aesthetic-7)
-        -   [Doc Brown](#doc-brown)
-            -   [Playstyle](#playstyle-8)
-            -   [Aesthetic](#aesthetic-8)
-        -   [Phantom Bear](#phantom-bear)
-            -   [Playstyle](#playstyle-9)
-            -   [Aesthetic](#aesthetic-9)
-        -   [Mikayy](#mikayy)
-            -   [Playstyle](#playstyle-10)
-            -   [Aesthetic](#aesthetic-10)
-        -   [Multistorm](#multistorm)
-            -   [Playstyle](#playstyle-11)
-            -   [Aesthetic](#aesthetic-11)
-        -   [OceanDad](#oceandad)
-            -   [Playstyle](#playstyle-12)
-            -   [Aesthetic](#aesthetic-12)
-        -   [Driftwood](#driftwood)
-            -   [Playstyle](#playstyle-13)
-            -   [Aesthetic](#aesthetic-13)
-        -   [Randy Newman](#randy-newman)
-            -   [Playstyle](#playstyle-14)
-            -   [Aesthetic](#aesthetic-14)
-        -   [Jake Denne](#jake-denne)
-            -   [Playstyle](#playstyle-15)
-            -   [Aesthetic](#aesthetic-15)
-        -   [Yachttors](#yachttors)
-            -   [Playstyle](#playstyle-16)
-            -   [Aesthetic](#aesthetic-16)
-        -   [Culex](#culex)
-            -   [Playstyle](#playstyle-17)
-            -   [Aesthetic](#aesthetic-17)
-        -   [Chef](#chef)
-            -   [Playstyle](#playstyle-18)
-            -   [Aesthetic](#aesthetic-18)
-        -   [Mexiken](#mexiken)
-            -   [Playstyle](#playstyle-19)
-            -   [Aesthetic](#aesthetic-19)
-        -   [Yujin](#yujin)
-            -   [Playstyle](#playstyle-20)
-            -   [Aesthetic](#aesthetic-20)
-        -   [Shelby](#shelby)
-            -   [Playstyle](#playstyle-21)
-            -   [Aesthetic](#aesthetic-21)
-        -   [Shaly](#shaly)
-            -   [Playstyle](#playstyle-22)
-            -   [Aesthetic](#aesthetic-22)
+- [Fightan lists thing](#fightan-lists-thing)
+    - [Template](#template)
+        - [Name](#name)
+            - [Playstyle](#playstyle)
+            - [Aesthetic](#aesthetic)
+    - [Players](#players)
+        - [Megan](#megan)
+            - [Playstyle](#playstyle-1)
+            - [Aesthetic](#aesthetic-1)
+        - [Booba](#booba)
+            - [Playstyle](#playstyle-2)
+            - [Aesthetic](#aesthetic-2)
+        - [Blondes](#blondes)
+            - [Playstyle](#playstyle-3)
+            - [Aesthetic](#aesthetic-3)
+        - [Blonde Boys](#blonde-boys)
+            - [Playstyle](#playstyle-4)
+            - [Aesthetic](#aesthetic-4)
+        - [Blonde Girls](#blonde-girls)
+            - [Playstyle](#playstyle-5)
+            - [Aesthetic](#aesthetic-5)
+        - [Lumia](#lumia)
+            - [Playstyle](#playstyle-6)
+            - [Aesthetic](#aesthetic-6)
+        - [ClaireLynnD](#clairelynnd)
+            - [Playstyle](#playstyle-7)
+            - [Aesthetic](#aesthetic-7)
+        - [Doc Brown](#doc-brown)
+            - [Playstyle](#playstyle-8)
+            - [Aesthetic](#aesthetic-8)
+        - [Phantom Bear](#phantom-bear)
+            - [Playstyle](#playstyle-9)
+            - [Aesthetic](#aesthetic-9)
+        - [Mikayy](#mikayy)
+            - [Playstyle](#playstyle-10)
+            - [Aesthetic](#aesthetic-10)
+        - [Multistorm](#multistorm)
+            - [Playstyle](#playstyle-11)
+            - [Aesthetic](#aesthetic-11)
+        - [OceanDad](#oceandad)
+            - [Playstyle](#playstyle-12)
+            - [Aesthetic](#aesthetic-12)
+        - [Driftwood](#driftwood)
+            - [Playstyle](#playstyle-13)
+            - [Aesthetic](#aesthetic-13)
+        - [Randy Newman](#randy-newman)
+            - [Playstyle](#playstyle-14)
+            - [Aesthetic](#aesthetic-14)
+        - [Jake Denne](#jake-denne)
+            - [Playstyle](#playstyle-15)
+            - [Aesthetic](#aesthetic-15)
+        - [Yachttors](#yachttors)
+            - [Playstyle](#playstyle-16)
+            - [Aesthetic](#aesthetic-16)
+        - [Culex](#culex)
+            - [Playstyle](#playstyle-17)
+            - [Aesthetic](#aesthetic-17)
+        - [Chef](#chef)
+            - [Playstyle](#playstyle-18)
+            - [Aesthetic](#aesthetic-18)
+        - [Mexiken](#mexiken)
+            - [Playstyle](#playstyle-19)
+            - [Aesthetic](#aesthetic-19)
+        - [Yujin](#yujin)
+            - [Playstyle](#playstyle-20)
+            - [Aesthetic](#aesthetic-20)
+        - [Shelby](#shelby)
+            - [Playstyle](#playstyle-21)
+            - [Aesthetic](#aesthetic-21)
+        - [Shaly](#shaly)
+            - [Playstyle](#playstyle-22)
+            - [Aesthetic](#aesthetic-22)
 
 ## Template
 
 ### Name
 
-| Game                       | Character(s)                 |
-| -------------------------- | ---------------------------- |
-| BBTAG                      |                              |
-| BlazBlue                   |                              |
-| Dead or Alive              |                              |
-| Dengeki Bunko              |                              |
-| DNF Duel                   |                              |
-| Dragonball FighterZ        | UI Goku, Bardock, Teen Gohan |
-| GG +R                      | POT                          |
-| GG Strive                  | TST, INO                     |
-| GG Xrd                     | INO, SOL                     |
-| Granblue Fantasy Versus    |                              |
-| Injustice                  |                              |
-| Injustice 2                |                              |
-| Jojo: HftF                 |                              |
-| Killer Instinct            |                              |
-| King of Fighters 15        | Andy, Kim, Gato              |
-| Marvel vs. Capcom 2        |                              |
-| Marvel vs. Capcom 3        |                              |
-| Marvel vs. Capcom Infinite |                              |
-| Melty Blood MBAACC         |                              |
-| Melty Blood TL             |                              |
-| Mortal Kombat 11           |                              |
-| Mortal Kombat X            |                              |
-| Nicktoons All Stars        |                              |
-| P4A                        |                              |
-| Sailor Moon S              |                              |
-| Samurai Showdown 7         |                              |
-| Skullgirls                 |                              |
-| Slap City                  |                              |
-| Smash Melee                | Shiek, Mario, Fox            |
-| Smash PM                   |                              |
-| Smash Ultimate             |                              |
-| Soulcalibur                |                              |
-| Street Fighter 2           |                              |
-| Street Fighter 3           |                              |
-| Street Fighter 4           |                              |
-| Street Fighter 5           | Cammy, Chunli, Necali        |
-| Street Fighter Alpha 2     |                              |
-| Tekken 7                   | Shaheen, Lidia               |
-| Tekken 8                   | Leo, Victor                  |
-| Tough Love Arena           |                              |
-| Touhou 12.3                |                              |
-| Umineko Musou              |                              |
-| Under Night                |                              |
-| Vampire Savior             |                              |
+| Game                       | Character(s) |
+| -------------------------- | ------------ |
+| BBTAG                      |              |
+| BlazBlue                   |              |
+| Dead or Alive              |              |
+| Dengeki Bunko              |              |
+| DNF Duel                   |              |
+| Dragonball FighterZ        |              |
+| GG +R                      |              |
+| GG Strive                  |              |
+| GG Xrd                     |              |
+| Granblue Fantasy Versus    |              |
+| Injustice                  |              |
+| Injustice 2                |              |
+| Jojo: HftF                 |              |
+| Killer Instinct            |              |
+| King of Fighters 15        |              |
+| Marvel vs. Capcom 2        |              |
+| Marvel vs. Capcom 3        |              |
+| Marvel vs. Capcom Infinite |              |
+| Melty Blood MBAACC         |              |
+| Melty Blood TL             |              |
+| Mortal Kombat 11           |              |
+| Mortal Kombat X            |              |
+| Nicktoons All Stars        |              |
+| P4A                        |              |
+| Sailor Moon S              |              |
+| Samurai Showdown 7         |              |
+| Skullgirls                 |              |
+| Slap City                  |              |
+| Smash Melee                |              |
+| Smash PM                   |              |
+| Smash Ultimate             |              |
+| Soulcalibur                |              |
+| Street Fighter 2           |              |
+| Street Fighter 3           |              |
+| Street Fighter 4           |              |
+| Street Fighter 5           |              |
+| Street Fighter Alpha 2     |              |
+| Tekken 7                   |              |
+| Tekken 8                   |              |
+| Tough Love Arena           |              |
+| Touhou 12.3                |              |
+| Umineko Musou              |              |
+| Under Night                |              |
+| Vampire Savior             |              |
 
 #### Playstyle
 
@@ -318,11 +318,11 @@ Mostly aesthetic ideas rn
 
 #### Playstyle
 
--   Refuses to play women outside of team games where they must
+- Refuses to play women outside of team games where they must
 
 #### Aesthetic
 
--   Blonde boys
+- Blonde boys
 
 ### Blonde Girls
 
@@ -350,11 +350,11 @@ Mostly aesthetic ideas rn
 
 #### Playstyle
 
--   Refuses to play men outside of team games where they must
+- Refuses to play men outside of team games where they must
 
 #### Aesthetic
 
--   Blonde girls
+- Blonde girls
 
 ### Lumia
 
@@ -373,17 +373,17 @@ Mostly aesthetic ideas rn
 
 #### Playstyle
 
--   Lab monsters
--   Puppet/Summons
--   Strong neutral buttons
--   Emphasis on setup/okizeme
+- Lab monsters
+- Puppet/Summons
+- Strong neutral buttons
+- Emphasis on setup/okizeme
 
 #### Aesthetic
 
--   Cute children
--   Laidback, disinterested
--   Slim/Soft build
--   Playful, comedic
+- Cute children
+- Laidback, disinterested
+- Slim/Soft build
+- Playful, comedic
 
 ### ClaireLynnD
 
@@ -395,43 +395,51 @@ Mostly aesthetic ideas rn
 
 #### Playstyle
 
--   Straightforward gameplan, simple to understand
--   Unorthodox/"Gimmick"
--   Patience and Defensive play rewarded
+- Straightforward gameplan, simple to understand
+- Unorthodox/"Gimmick"
+- Patience and Defensive play rewarded
 
 #### Aesthetic
 
--   Cute Girl
--   Annoying sounds
--   Headwear
+- Cute Girl
+- Annoying sounds
+- Headwear
 
 ### Doc Brown
 
-| Game                    | Character(s)          |
-| ----------------------- | --------------------- |
-| BBTAG                   | Yang/Akatsuki         |
-| BlazBlue                | Jin, Kagura           |
-| Dead or Alive           | Tina                  |
-| GG +R                   | Faust                 |
-| GG Strive               | Leo, Faust            |
-| Granblue Fantasy Versus | Percival              |
-| Marvel vs. Capcom 3     | Deadpool/Dante/Vergil |
-| Melty Blood MBAACC      | Sword Maid(?)         |
-| Melty Blood TL          | Big Shoe, Mash        |
-| Mortal Kombat 11        | Baraka, Scorpion      |
-| Nicktoons All Stars     | Spongebob             |
-| P4A                     | Teddy, Mitsuru        |
-| Samurai Showdown 7      | Hibiki, Tamtam        |
-| Skullgirls              | Cerebella/Fillia      |
-| Smash Melee             | C.Falcon              |
-| Smash Ultimate          | Chrom                 |
-| Soul Calibur            | Siegfried             |
-| Street Fighter 4        | Poison, Zangief       |
-| Street Fighter 5        | Poison, Guile, Birdie |
-| Tekken 7                | Miguel, Paul          |
-| Tough Love Arena        | Noodle                |
-| Touhou 12.3             | Iku, Komachi, Utsuho  |
-| UNIST                   | Gord                  |
+| Game                    | Character(s)                             |
+| ----------------------- | ---------------------------------------- |
+| BBTAG                   | Yang/Akatsuki                            |
+| BlazBlue                | Jin, Kagura                              |
+| DNF Duel                | Troubleshooter                           |
+| Dead or Alive           | Tina                                     |
+| GG +R                   | Faust                                    |
+| GG Xrd                  | Faust                                    |
+| GG Strive               | Leo, Faust                               |
+| Granblue Fantasy Versus | Percival                                 |
+| Killer Instinct         | Omen                                     |
+| King of Fighters 15     | Meitenkun/Gato/Ash                       |
+| Marvel vs. Capcom 2     | Team Scrub (Cable-B/Sentinel-Y/CapCom-B) |
+| Marvel vs. Capcom 3     | Deadpool/Dante/Vergil                    |
+| Melty Blood MBAACC      | H. Kouhaku                               |
+| Melty Blood TL          | Vlov, Mash                               |
+| Mortal Kombat 11        | Baraka, Scorpion                         |
+| Nicktoons All Stars     | Spongebob                                |
+| P4A                     | Teddy, Mitsuru                           |
+| Samurai Showdown 7      | Hibiki, Tamtam                           |
+| Skullgirls              | Cerebella/Fillia                         |
+| Smash Melee             | C.Falcon                                 |
+| Smash Ultimate          | Chrom                                    |
+| Soul Calibur            | Siegfried                                |
+| Street Fighter 4        | Poison, Zangief                          |
+| Street Fighter 5        | Poison, Guile, Birdie                    |
+| Street Fighter 6        | Guile, Honda, Lily                       |
+| Tekken 7                | Miguel, Paul                             |
+| Tekken 8                | Paul                                     |
+| Tough Love Arena        | Noodle                                   |
+| Touhou 12.3             | Iku, Komachi, Utsuho                     |
+| UNIST                   | Gord, Uzuki                              |
+| Vampire Savior          | Hsien-Ko                                 |
 
 Comm thing:
 
@@ -489,14 +497,14 @@ Comm thing:
 
 #### Playstyle
 
--   Preference for pressing buttons (proactive instead of reactive)
--   Focus on midrange/adaptable gameplan
--   Setplay oki
+- Preference for pressing buttons (proactive instead of reactive)
+- Focus on midrange/adaptable gameplan
+- Setplay oki
 
 #### Aesthetic
 
--   Cute girl
--   Comedic aesthetic (if he doesn't like the game)
+- Cute girl
+- Comedic aesthetic (if he doesn't like the game)
 
 ### Mikayy
 
@@ -515,16 +523,16 @@ Comm thing:
 
 #### Playstyle
 
--   Boxer, midrange characters
--   High skill ceiling, moderate skill floor
--   Defined advantage state, allows flowcharting
+- Boxer, midrange characters
+- High skill ceiling, moderate skill floor
+- Defined advantage state, allows flowcharting
 
 #### Aesthetic
 
--   Calm, reserved, calculated
--   Genki Girl
--   Sword
--   Underdog protagonist energy
+- Calm, reserved, calculated
+- Genki Girl
+- Sword
+- Underdog protagonist energy
 
 ### Multistorm
 
@@ -544,18 +552,18 @@ Comm thing:
 
 #### Playstyle
 
--   Low committal strings
--   Flowchart neutral
--   Long range normals
--   Okizeme, requires labbing
--   Plus frame mixups
+- Low committal strings
+- Flowchart neutral
+- Long range normals
+- Okizeme, requires labbing
+- Plus frame mixups
 
 #### Aesthetic
 
--   Reputation, reserved
--   Calculated
--   Nimble, small bodies
--   Cute girls
+- Reputation, reserved
+- Calculated
+- Nimble, small bodies
+- Cute girls
 
 ### OceanDad
 
@@ -577,18 +585,18 @@ Comm thing:
 
 #### Playstyle
 
--   Midrange character
--   Aggressive buttons, forward movement
--   High execution requirement (stick movement, not buttons)
--   Mental fear response inducing
--   Close range strings
+- Midrange character
+- Aggressive buttons, forward movement
+- High execution requirement (stick movement, not buttons)
+- Mental fear response inducing
+- Close range strings
 
 #### Aesthetic
 
--   Sexualized girl
--   Rival character
--   Muscular, macho man
--   Emotional strength
+- Sexualized girl
+- Rival character
+- Muscular, macho man
+- Emotional strength
 
 ### Driftwood
 
@@ -611,20 +619,20 @@ Comm thing:
 
 #### Playstyle
 
--   Midrange jack-of-all-trades characters
--   Straightforward gameplan chars
--   Big damage on commitment buttons
--   Coward mode, but higher execution
--   Little bit of chump checking, if you don't know counterplay...you lose
--   Would play Mario in smash if he was top tier
+- Midrange jack-of-all-trades characters
+- Straightforward gameplan chars
+- Big damage on commitment buttons
+- Coward mode, but higher execution
+- Little bit of chump checking, if you don't know counterplay...you lose
+- Would play Mario in smash if he was top tier
 
 #### Aesthetic
 
--   Impulsive
--   Force of nature
--   Stoic, statuesque
--   Older men
--   Monsters
+- Impulsive
+- Force of nature
+- Stoic, statuesque
+- Older men
+- Monsters
 
 ### Randy Newman
 
@@ -643,17 +651,17 @@ Comm thing:
 
 #### Playstyle
 
--   Midrange neutral
--   Aggression/Mixup
--   Command Grabs (Mika, Gio, Yang, Ladiva)
--   Ability to zone
+- Midrange neutral
+- Aggression/Mixup
+- Command Grabs (Mika, Gio, Yang, Ladiva)
+- Ability to zone
 
 #### Aesthetic
 
--   Cute Girls, Sexy Girls
--   Colored hair
--   Has weapons
--   Strong or big men
+- Cute Girls, Sexy Girls
+- Colored hair
+- Has weapons
+- Strong or big men
 
 ### Jake Denne
 
@@ -664,14 +672,14 @@ Comm thing:
 
 #### Playstyle
 
--   Midrange neutral
--   High tier
--   Low execution
+- Midrange neutral
+- High tier
+- Low execution
 
 #### Aesthetic
 
--   Nobility, legacy, reputation
--   Has a sword
+- Nobility, legacy, reputation
+- Has a sword
 
 ### Yachttors
 
@@ -692,20 +700,20 @@ Comm thing:
 
 #### Playstyle
 
--   He's a fucking liar, don't believe him.
--   Neutral dominator
-    -   Wins a few times, and forces a playstyle from opponent
-    -   Wins frequently, forces opponent to overcome oppression
--   Specialist characters, doesn't have reversals
--   Insists that their opponent knows the matchup against them
--   Tends to pick a gameplan that has "gimmicks"
+- He's a fucking liar, don't believe him.
+- Neutral dominator
+    - Wins a few times, and forces a playstyle from opponent
+    - Wins frequently, forces opponent to overcome oppression
+- Specialist characters, doesn't have reversals
+- Insists that their opponent knows the matchup against them
+- Tends to pick a gameplan that has "gimmicks"
 
 #### Aesthetic
 
--   Big body, fat, ugly bastard
--   Cute girl, sexy girl, awooga
--   Characters that misrepresent the power of their moves (Anna QCF1, Poison 2MP, Wario Nair)
--   When in doubt, Goth
+- Big body, fat, ugly bastard
+- Cute girl, sexy girl, awooga
+- Characters that misrepresent the power of their moves (Anna QCF1, Poison 2MP, Wario Nair)
+- When in doubt, Goth
 
 ### Culex
 
@@ -722,16 +730,16 @@ Comm thing:
 
 #### Playstyle
 
--   Neutral heavy, committal to buttons (stiff)
--   Instant startup buttons, long recovery
--   Projectile zoning?
+- Neutral heavy, committal to buttons (stiff)
+- Instant startup buttons, long recovery
+- Projectile zoning?
 
 #### Aesthetic
 
--   Bulky
--   Strong
--   Intimidating
--   Playful
+- Bulky
+- Strong
+- Intimidating
+- Playful
 
 ### Chef
 
@@ -756,15 +764,15 @@ Comm thing:
 
 #### Playstyle
 
--   Slow moving, big button, high committal characters
--   Win the neutral game fewer times than your opponent
--   Straightforward gameplan, like easy to pick up
--   When in doubt, pick low committal neutral dominating characters
+- Slow moving, big button, high committal characters
+- Win the neutral game fewer times than your opponent
+- Straightforward gameplan, like easy to pick up
+- When in doubt, pick low committal neutral dominating characters
 
 #### Aesthetic
 
--   Strong men, big characters, large bodies
--   Boss Characters, usually bad motivations
+- Strong men, big characters, large bodies
+- Boss Characters, usually bad motivations
 
 ### Mexiken
 
@@ -781,16 +789,16 @@ Comm thing:
 
 #### Playstyle
 
--   Boxing
--   Aggressive strings
--   Hitconfirms
--   Pixie neutral
+- Boxing
+- Aggressive strings
+- Hitconfirms
+- Pixie neutral
 
 #### Aesthetic
 
--   Ninja
--   Martial Arts
--   Strong Men
+- Ninja
+- Martial Arts
+- Strong Men
 
 ### Yujin
 
@@ -812,9 +820,9 @@ Comm thing:
 
 #### Aesthetic
 
--   Cute Girl
--   Royalty
--   Agile
+- Cute Girl
+- Royalty
+- Agile
 
 ### Shelby
 
