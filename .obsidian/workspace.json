@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73a2801e6a21ad64",
+        "id": "ed3a06226c953676",
         "type": "tabs",
         "children": [
           {
-            "id": "e98147133ff82d01",
+            "id": "187d5c14a4612b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/characterPages.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "characterPages"
-            }
-          },
-          {
-            "id": "258bccc8afa838f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fbedf29ebf7cc3eb",
@@ -179,25 +166,26 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e98147133ff82d01",
+  "active": "187d5c14a4612b3f",
   "lastOpenFiles": [
-    "docs/characterPages.html",
-    "docs/pictures/FGC/BBTag_Yang_Xiao_Long_Portrait.png",
-    "docs/pictures/FGC/MVC2_captaincommando_art.png",
-    "docs/pictures/FGC/MVC2_sentinel_art.png",
-    "docs/pictures/FGC/MVC2_cable_art.png",
+    "docs/pictures/FGC/BBTag_Teddie_Portrait.png",
+    "docs/characterPages.md",
     "docs/christConciousness.md",
     "docs/index.md",
+    "docs/pictures/FGC/SF6_Lily_Portrait.png",
+    "docs/pictures/FGC/SF6_Guile_Portrait.png",
+    "docs/pictures/FGC/SF6_Ehonda_Portrait.png",
+    "docs/pictures/FGC/SFV-Birdie_Portrait.png",
+    "docs/pictures/FGC/SFV-Poison_Portrait.png",
+    "docs/pictures/FGC/SSFIV-Zangief_Face.png",
+    "docs/pictures/FGC/SSFIV-Poison_Face.png",
+    "docs/pictures/FGC/Captain_Falcon_SSBM.png",
+    "docs/pictures/FGC/Chrom_SSBU.png",
+    "docs/pictures/FGC/kiwix-desktop_windows_x64_2.4.1.zip",
+    "docs/characterPages.html",
     "docs/optionsScreens.md",
-    "docs/characterPages.md",
-    "docs/pictures/FGC/KOFXV_Meitenkun_Profile.png",
-    "docs/pictures/FGC/KOFXV_Gato_Profile.png",
-    "docs/pictures/FGC/KOFXV_Ash_Profile.png",
     "docs/pictures/FGC",
     "docs/pictures/New folder",
-    "docs/pictures/KOFXV_Meitenkun_Profile.png",
-    "docs/pictures/KOFXV_Ash_Profile.png",
-    "docs/pictures/KOFXV_Gato_Profile.png",
     "docs/qe.md",
     "docs/Character Pile.html",
     "Hata4564 Request.md",
