@@ -431,6 +431,7 @@ Mostly aesthetic ideas rn
 | Smash Melee             | C.Falcon                                 |
 | Smash Ultimate          | Chrom                                    |
 | Soul Calibur            | Siegfried                                |
+| Street Fighter 3        | Ibuki                                    |
 | Street Fighter 4        | Poison, Zangief                          |
 | Street Fighter 5        | Poison, Guile, Birdie                    |
 | Street Fighter 6        | Guile, Honda, Lily                       |
@@ -438,7 +439,7 @@ Mostly aesthetic ideas rn
 | Tekken 8                | Paul                                     |
 | Tough Love Arena        | Noodle                                   |
 | Touhou 12.3             | Iku, Komachi, Utsuho                     |
-| UNIST                   | Gord, Uzuki                              |
+| Under Night             | Gordeau, Uzuki                           |
 | Vampire Savior          | Hsien-Ko                                 |
 
 Comm thing:
